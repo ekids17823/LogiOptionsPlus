@@ -1,0 +1,7 @@
+{
+  "low_battery": {
+    "title": "",
+    "subtitle": "Low battery",
+    "icon": "battery.png"
+  }
+}

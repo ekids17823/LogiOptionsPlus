@@ -1,0 +1,698 @@
+{
+  "devices": {
+    "6b023": {
+      "appTable": [
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "26f0bda7-a891-4843-aaad-6fbe1d145f0c",
+          "kirosGuid": "application_id_apple_safari",
+          "appName": "Safari"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "383fe03e-0358-eea5-d19d-cb7a6a995efc",
+          "kirosGuid": "application_id_final_cut_pro",
+          "appName": "Final Cut Pro"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "7054e844-537a-4c73-baed-430cc50d0eb1",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Mac Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "a25c7181-e5c1-4733-ad11-06201099f2d2",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Mac Microsoft Excel"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "e6cf1ca9-9410-41cb-b6b6-ec1314deaa45",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Mac Microsoft Word"
+        }
+      ]
+    },
+    "6b025": {
+      "appTable": [
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "26f0bda7-a891-4843-aaad-6fbe1d145f0c",
+          "kirosGuid": "application_id_apple_safari",
+          "appName": "Safari"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "383fe03e-0358-eea5-d19d-cb7a6a995efc",
+          "kirosGuid": "application_id_final_cut_pro",
+          "appName": "Final Cut Pro"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "7054e844-537a-4c73-baed-430cc50d0eb1",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Mac Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "a25c7181-e5c1-4733-ad11-06201099f2d2",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Mac Microsoft Excel"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "e6cf1ca9-9410-41cb-b6b6-ec1314deaa45",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Mac Microsoft Word"
+        }
+      ]
+    },
+    "2b028": {
+      "appTable": [
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "26f0bda7-a891-4843-aaad-6fbe1d145f0c",
+          "kirosGuid": "application_id_apple_safari",
+          "appName": "Safari"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "383fe03e-0358-eea5-d19d-cb7a6a995efc",
+          "kirosGuid": "application_id_final_cut_pro",
+          "appName": "Final Cut Pro"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "7054e844-537a-4c73-baed-430cc50d0eb1",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Mac Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "a25c7181-e5c1-4733-ad11-06201099f2d2",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Mac Microsoft Excel"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "e6cf1ca9-9410-41cb-b6b6-ec1314deaa45",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Mac Microsoft Word"
+        }
+      ]
+    },
+    "2b365": {
+      "appTable": [
+        {
+          "optionsGuid": "c2bc3dda-9b95-4c59-a3e7-3c3c82c4e372",
+          "kirosGuid": "application_id_we_chat",
+          "appName": "WeChat"
+        }
+      ]
+    },
+    "2b030": {
+      "appTable": [
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "c2bc3dda-9b95-4c59-a3e7-3c3c82c4e372",
+          "kirosGuid": "application_id_we_chat",
+          "appName": "WeChat"
+        }
+      ]
+    },
+    "2b02d": {
+      "appTable": [
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "26f0bda7-a891-4843-aaad-6fbe1d145f0c",
+          "kirosGuid": "application_id_apple_safari",
+          "appName": "Safari"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "383fe03e-0358-eea5-d19d-cb7a6a995efc",
+          "kirosGuid": "application_id_final_cut_pro",
+          "appName": "Final Cut Pro"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "7054e844-537a-4c73-baed-430cc50d0eb1",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Mac Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "a25c7181-e5c1-4733-ad11-06201099f2d2",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Mac Microsoft Excel"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "e6cf1ca9-9410-41cb-b6b6-ec1314deaa45",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Mac Microsoft Word"
+        }
+      ]
+    },
+    "eb020": {
+      "appTable": [
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "26f0bda7-a891-4843-aaad-6fbe1d145f0c",
+          "kirosGuid": "application_id_apple_safari",
+          "appName": "Safari"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "383fe03e-0358-eea5-d19d-cb7a6a995efc",
+          "kirosGuid": "application_id_final_cut_pro",
+          "appName": "Final Cut Pro"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "7054e844-537a-4c73-baed-430cc50d0eb1",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Mac Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "a25c7181-e5c1-4733-ad11-06201099f2d2",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Mac Microsoft Excel"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "e6cf1ca9-9410-41cb-b6b6-ec1314deaa45",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Mac Microsoft Word"
+        }
+      ]
+    },
+    "6b01d": {
+      "appTable": [
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "26f0bda7-a891-4843-aaad-6fbe1d145f0c",
+          "kirosGuid": "application_id_apple_safari",
+          "appName": "Safari"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "383fe03e-0358-eea5-d19d-cb7a6a995efc",
+          "kirosGuid": "application_id_final_cut_pro",
+          "appName": "Final Cut Pro"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "7054e844-537a-4c73-baed-430cc50d0eb1",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Mac Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "a25c7181-e5c1-4733-ad11-06201099f2d2",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Mac Microsoft Excel"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "e6cf1ca9-9410-41cb-b6b6-ec1314deaa45",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Mac Microsoft Word"
+        }
+      ]
+    },
+    "6b012": {
+      "appTable": [
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "26f0bda7-a891-4843-aaad-6fbe1d145f0c",
+          "kirosGuid": "application_id_apple_safari",
+          "appName": "Safari"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "383fe03e-0358-eea5-d19d-cb7a6a995efc",
+          "kirosGuid": "application_id_final_cut_pro",
+          "appName": "Final Cut Pro"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "7054e844-537a-4c73-baed-430cc50d0eb1",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Mac Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "a25c7181-e5c1-4733-ad11-06201099f2d2",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Mac Microsoft Excel"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "e6cf1ca9-9410-41cb-b6b6-ec1314deaa45",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Mac Microsoft Word"
+        }
+      ]
+    },
+    "6b01e": {
+      "appTable": [
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "26f0bda7-a891-4843-aaad-6fbe1d145f0c",
+          "kirosGuid": "application_id_apple_safari",
+          "appName": "Safari"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "383fe03e-0358-eea5-d19d-cb7a6a995efc",
+          "kirosGuid": "application_id_final_cut_pro",
+          "appName": "Final Cut Pro"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "7054e844-537a-4c73-baed-430cc50d0eb1",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Mac Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "a25c7181-e5c1-4733-ad11-06201099f2d2",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Mac Microsoft Excel"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "e6cf1ca9-9410-41cb-b6b6-ec1314deaa45",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Mac Microsoft Word"
+        }
+      ]
+    },
+    "6b017": {
+      "appTable": [
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "26f0bda7-a891-4843-aaad-6fbe1d145f0c",
+          "kirosGuid": "application_id_apple_safari",
+          "appName": "Safari"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "383fe03e-0358-eea5-d19d-cb7a6a995efc",
+          "kirosGuid": "application_id_final_cut_pro",
+          "appName": "Final Cut Pro"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "7054e844-537a-4c73-baed-430cc50d0eb1",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Mac Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "a25c7181-e5c1-4733-ad11-06201099f2d2",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Mac Microsoft Excel"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "e6cf1ca9-9410-41cb-b6b6-ec1314deaa45",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Mac Microsoft Word"
+        }
+      ]
+    }
+  }
+}

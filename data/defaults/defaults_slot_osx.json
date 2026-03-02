@@ -1,0 +1,1384 @@
+{
+  "defaults": {
+    "420fd454-0c36-499d-bde4-146823b16147": {
+      "defaultAssignment": [
+        {
+          "id": "mx-master-3-6b023_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_horizontal_scroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b034_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_horizontal_scroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b035_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_horizontal_scroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b043_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_horizontal_scroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b044_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_horizontal_scroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-6b025_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_horizontal_scroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3-2b028_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_horizontal_scroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-2b02d_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_horizontal_scroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "pop-mouse-2b030_c264",
+          "cardInfo": "card_global_presets_osx_emojis_menu",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "m510-44051_c91",
+          "cardInfo": "card_global_presets_scroll_left",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "m510-44051_c93",
+          "cardInfo": "card_global_presets_scroll_right",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-ergo-6b01d_c91",
+          "cardInfo": "card_global_presets_scroll_left",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-ergo-6b01d_c93",
+          "cardInfo": "card_global_presets_scroll_right",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-for-business-2b033_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-2b031_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "m720-triathlon-6b015_c82",
+          "cardInfo": "card_global_presets_middle_button",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "m720-triathlon-6b015_c83",
+          "cardInfo": "card_global_presets_osx_back",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "m720-triathlon-6b015_c86",
+          "cardInfo": "card_global_presets_osx_forward",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "m720-triathlon-6b015_c91",
+          "cardInfo": "card_global_presets_scroll_left",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "m720-triathlon-6b015_c93",
+          "cardInfo": "card_global_presets_scroll_right",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "m720-triathlon-6b015_c208",
+          "cardInfo": "card_global_presets_one_of_gesture_button",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        }
+      ]
+    },
+    "application_id_adobe_photoshop": {
+      "defaultAssignment": [
+        {
+          "id": "mx-master-3-6b023_thumb_wheel_adapter",
+          "cardInfo": "card_photoshop_brushSize",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b034_thumb_wheel_adapter",
+          "cardInfo": "card_photoshop_brushSize",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b035_thumb_wheel_adapter",
+          "cardInfo": "card_photoshop_brushSize",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b043_thumb_wheel_adapter",
+          "cardInfo": "card_photoshop_brushSize",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b044_thumb_wheel_adapter",
+          "cardInfo": "card_photoshop_brushSize",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-6b025_thumb_wheel_adapter",
+          "cardInfo": "card_photoshop_brushSize",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3-2b028_thumb_wheel_adapter",
+          "cardInfo": "card_photoshop_brushSize",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-2b02d_thumb_wheel_adapter",
+          "cardInfo": "card_photoshop_brushSize",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-for-business-2b033_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-2b031_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        }
+      ]
+    },
+    "application_id_adobe_premierepro": {
+      "defaultAssignment": [
+        {
+          "id": "mx-master-3-6b023_thumb_wheel_adapter",
+          "cardInfo": "card_premiere_pro_osx_timelineHorizontalScroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b034_thumb_wheel_adapter",
+          "cardInfo": "card_premiere_pro_osx_timelineHorizontalScroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b035_thumb_wheel_adapter",
+          "cardInfo": "card_premiere_pro_osx_timelineHorizontalScroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b043_thumb_wheel_adapter",
+          "cardInfo": "card_premiere_pro_osx_timelineHorizontalScroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b044_thumb_wheel_adapter",
+          "cardInfo": "card_premiere_pro_osx_timelineHorizontalScroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-6b025_thumb_wheel_adapter",
+          "cardInfo": "card_premiere_pro_osx_timelineHorizontalScroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3-2b028_thumb_wheel_adapter",
+          "cardInfo": "card_premiere_pro_osx_timelineHorizontalScroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-2b02d_thumb_wheel_adapter",
+          "cardInfo": "card_premiere_pro_osx_timelineHorizontalScroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-for-business-2b033_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-2b031_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        }
+      ]
+    },
+    "application_id_microsoft_excel": {
+      "defaultAssignment": [
+        {
+          "id": "mx-master-3-6b023_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_horizontal_scroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b034_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_horizontal_scroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b035_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_horizontal_scroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b043_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_horizontal_scroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b044_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_horizontal_scroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-6b025_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_tab_navigation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3-2b028_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_horizontal_scroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-2b02d_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_tab_navigation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-for-business-2b033_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-2b031_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        }
+      ]
+    },
+    "application_id_microsoft_word": {
+      "defaultAssignment": [
+        {
+          "id": "mx-master-3-6b023_thumb_wheel_adapter",
+          "cardInfo": "card_word_osx_zoom",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b034_thumb_wheel_adapter",
+          "cardInfo": "card_word_osx_zoom",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b035_thumb_wheel_adapter",
+          "cardInfo": "card_word_osx_zoom",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b043_thumb_wheel_adapter",
+          "cardInfo": "card_word_osx_zoom",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b044_thumb_wheel_adapter",
+          "cardInfo": "card_word_osx_zoom",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-6b025_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_tab_navigation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3-2b028_thumb_wheel_adapter",
+          "cardInfo": "card_word_osx_zoom",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-2b02d_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_tab_navigation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-for-business-2b033_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-2b031_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        }
+      ]
+    },
+    "application_id_microsoft_powerpoint": {
+      "defaultAssignment": [
+        {
+          "id": "mx-master-3-6b023_thumb_wheel_adapter",
+          "cardInfo": "card_powerpoint_osx_zoom",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b034_thumb_wheel_adapter",
+          "cardInfo": "card_powerpoint_osx_zoom",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b035_thumb_wheel_adapter",
+          "cardInfo": "card_powerpoint_osx_zoom",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b043_thumb_wheel_adapter",
+          "cardInfo": "card_powerpoint_osx_zoom",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b044_thumb_wheel_adapter",
+          "cardInfo": "card_powerpoint_osx_zoom",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-6b025_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3-2b028_thumb_wheel_adapter",
+          "cardInfo": "card_powerpoint_osx_zoom",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-2b02d_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-for-business-2b033_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-2b031_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        }
+      ]
+    },
+    "application_id_google_chrome": {
+      "defaultAssignment": [
+        {
+          "id": "mx-master-3-6b023_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_tab_navigation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b034_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_tab_navigation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b035_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_tab_navigation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b043_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_tab_navigation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b044_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_tab_navigation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3-2b028_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_tab_navigation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-for-business-2b033_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-2b031_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        }
+      ]
+    },
+    "application_id_apple_safari": {
+      "defaultAssignment": [
+        {
+          "id": "mx-master-3-6b023_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_tab_navigation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b034_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_tab_navigation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b035_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_tab_navigation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b043_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_tab_navigation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b044_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_tab_navigation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3-2b028_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_tab_navigation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-for-business-2b033_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-2b031_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        }
+      ]
+    },
+    "application_id_microsoft_teams": {
+      "defaultAssignment": [
+        {
+          "id": "mx-master-3-6b023_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b034_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b035_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b043_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b044_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3-2b028_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "pop-mouse-2b030_c82",
+          "cardInfo": "card_teams_osx_toggle_mic",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-for-business-2b033_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-2b031_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        }
+      ]
+    },
+    "application_id_microsoft_teams_new": {
+      "defaultAssignment": [
+        {
+          "id": "mx-master-3-6b023_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b034_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b035_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b043_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b044_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3-2b028_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "pop-mouse-2b030_c82",
+          "cardInfo": "card_teams_osx_toggle_mic",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-for-business-2b033_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-2b031_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        }
+      ]
+    },
+    "application_id_zoom": {
+      "defaultAssignment": [
+        {
+          "id": "mx-master-3-6b023_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b034_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b035_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b043_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b044_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-6b025_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3-2b028_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-2b02d_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "pop-mouse-2b030_c82",
+          "cardInfo": "card_zoom_osx_toggle_mic",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-for-business-2b033_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-2b031_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        }
+      ]
+    },
+    "application_id_final_cut_pro": {
+      "defaultAssignment": [
+        {
+          "id": "mx-master-3-6b023_thumb_wheel_adapter",
+          "cardInfo": "card_final_cut_pro_osx_timelineHorizontalScroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-6b025_thumb_wheel_adapter",
+          "cardInfo": "card_final_cut_pro_osx_timelineHorizontalScroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b034_thumb_wheel_adapter",
+          "cardInfo": "card_final_cut_pro_osx_timelineHorizontalScroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b035_thumb_wheel_adapter",
+          "cardInfo": "card_final_cut_pro_osx_timelineHorizontalScroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b043_thumb_wheel_adapter",
+          "cardInfo": "card_final_cut_pro_osx_timelineHorizontalScroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b044_thumb_wheel_adapter",
+          "cardInfo": "card_final_cut_pro_osx_timelineHorizontalScroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3-2b028_thumb_wheel_adapter",
+          "cardInfo": "card_final_cut_pro_osx_timelineHorizontalScroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-2b02d_thumb_wheel_adapter",
+          "cardInfo": "card_final_cut_pro_osx_timelineHorizontalScroll",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-for-business-2b033_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-2b031_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        }
+      ]
+    },
+    "application_id_we_chat": {
+      "defaultAssignment": [
+        {
+          "id": "pop-mouse-2b030_c264",
+          "cardInfo": "card_wechat_osx_emoji",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        }
+      ]
+    },
+    "application_id_tencent_meeting": {
+      "defaultAssignment": [
+        {
+          "id": "mx-master-3-6b023_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b034_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b035_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b043_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b044_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-6b025_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3-2b028_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-2b02d_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "pop-mouse-2b030_c82",
+          "cardInfo": "card_tencent_meeting_osx_toggle_mic",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-for-business-2b033_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-2b031_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        }
+      ]
+    },
+    "application_id_voov_meeting": {
+      "defaultAssignment": [
+        {
+          "id": "mx-master-3-6b023_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b034_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b035_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b043_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3s-2b044_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-6b025_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-master-3-2b028_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-anywhere-3-2b02d_thumb_wheel_adapter",
+          "cardInfo": "card_global_presets_osx_volume_control",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "pop-mouse-2b030_c82",
+          "cardInfo": "card_voov_meeting_osx_toggle_mic",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-for-business-2b033_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "mx-vertical-mini-2b031_c253",
+          "cardInfo": "card_global_presets_change_pointer_speed",
+          "changePointerSpeed": {
+            "active": "pointer_speed_one",
+            "pointerSpeeds": {
+              "pointer_speed_one": 0,
+              "pointer_speed_two": 0.34
+            },
+            "highResolutionSensorActive": false
+          },
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        }
+      ]
+    },
+    "application_id_ding_talk": {
+      "defaultAssignment": [
+        {
+          "id": "signature-m650-2b02a_c82",
+          "cardInfo": "card_global_presets_middle_button",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "signature-m650-2b02a_c83",
+          "cardInfo": "card_dingtalk_osx_ai_assistant",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "signature-m650-2b02a_c86",
+          "cardInfo": "card_global_presets_osx_dictation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "signature-m650-2b032_c82",
+          "cardInfo": "card_global_presets_middle_button",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "signature-m650-2b032_c83",
+          "cardInfo": "card_dingtalk_osx_ai_assistant",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "signature-m650-2b032_c86",
+          "cardInfo": "card_global_presets_osx_dictation",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        },
+        {
+          "id": "signature-m750-2b02c_c82",
+          "cardInfo": "card_global_presets_middle_button",
+          "tags": [
+            "UI_PAGE_BUTTONS"
+          ]
+        }
+      ]
+    }
+  }
+}

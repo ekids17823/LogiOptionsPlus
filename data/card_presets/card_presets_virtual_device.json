@@ -1,0 +1,82 @@
+{
+  "cards": [
+    {
+      "id": "card_global_presets_show_radial_menu",
+      "name": "ASSIGNMENT_NAME_SHOW_RADIAL_MENU",
+      "attribute": "MACRO_PLAYBACK",
+      "readOnly": true,
+      "continuous": false,
+      "macro": {
+        "type": "SYSTEM",
+        "system": {
+          "action": "SHOW_RADIAL_MENU"
+        },
+        "onboardable": false,
+        "actionName": "",
+        "icon": ""
+      },
+      "nestedCards": {},
+      "icons": {
+        "uri": "pipeline://88b73d28-24d8-47bd-84a2-c45cad5640d3/actions.bundle/",
+        "icons": [
+          "ShowRadialMenu.png",
+          "ShowRadialMenu.svg"
+        ]
+      },
+      "tags": [
+        "PRESET_TAG_MX_DIDOT_ACTION_RING"
+      ]
+    },
+    {
+      "id": "card_global_presets_adjustable_volume",
+      "name": "ASSIGNMENT_NAME_ADJUSTABLE_VOLUME",
+      "attribute": "MACRO_PLAYBACK",
+      "readOnly": true,
+      "continuous": false,
+      "macro": {
+        "type": "MEDIA",
+        "media": {
+          "usage": "SET_CONCRETE_VOLUME"
+        },
+        "onboardable": false,
+        "actionName": "",
+        "icon": "",
+        "action": {
+          "actionId": "volume",
+          "integrationId": "system"
+        }
+      },
+      "uiSettings": {
+        "valueFormat": "%.0f%%"
+      },
+      "nestedCards": {},
+      "icons": {
+        "uri": "pipeline://88b73d28-24d8-47bd-84a2-c45cad5640d3/actions.bundle/",
+        "icons": [
+          "VolumeRadialMenu.png"
+        ]
+      },
+      "tags": [
+        "PRESET_TAG_ANALOG_CONTROL"
+      ]
+    },
+    {
+      "id": "card_global_presets_folder",
+      "name": "ASSIGNMENT_NAME_FOLDER",
+      "attribute": "FOLDER",
+      "readOnly": true,
+      "continuous": false,
+      "nestedCards": {},
+      "icons": {
+        "uri": "pipeline://88b73d28-24d8-47bd-84a2-c45cad5640d3/actions.bundle/",
+        "icons": [
+          "Folder.png",
+          "Folder.svg"
+        ]
+      },
+      "tags": [
+        "PRESET_TAG_FOLDER"
+      ]
+    }
+  ]
+}

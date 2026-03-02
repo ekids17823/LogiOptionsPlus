@@ -1,0 +1,3867 @@
+{
+  "data": {
+    "420fd454-0c36-499d-bde4-146823b16147": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "89",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "94",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "187",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "186",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "188",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEYBOARD_RIGHT_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "189",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "190",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "194",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "199",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "200",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "212",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "213",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "214",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEYBOARD_RIGHT_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "206",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "221",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "224",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "225",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "265",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "110",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "226",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_BACKLIGHT_DOWN_SETTINGS",
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "227",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_BACKLIGHT_UP_SETTINGS",
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "228",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "229",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "230",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "231",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "232",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "233",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "10",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "191",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "234",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "111",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "13",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_EJECT_KEYBOARD_SETTINGS",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "259",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "284",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "266",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "285",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "279",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEYBOARD_RIGHT_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "278",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "287",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC"
+          ]
+        },
+        {
+          "id": "280",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "281",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "282",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "283",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "321",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "PRESET_TAG_PRECISION_MODE",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "260",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "261",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "262",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "263",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "287",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "238",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "288",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "289",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_LANGUAGE_SWITCH_SETTINGS",
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "166",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "24",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "84",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "87",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "238",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "12",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "62",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "73",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "70",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "34",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "254",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "255",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "256",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "14",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_EMAIL",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "40",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_MEDIA"
+          ]
+        },
+        {
+          "id": "8",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "79",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEYBOARD_RIGHT_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "145",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "64",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "144",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "149",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        }
+      ]
+    },
+    "application_id_adobe_photoshop": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "PRESET_TAG_PRECISION_MODE",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        }
+      ]
+    },
+    "application_id_adobe_premierepro": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "PRESET_TAG_PRECISION_MODE",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        }
+      ]
+    },
+    "application_id_microsoft_excel": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "PRESET_TAG_PRECISION_MODE",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        }
+      ]
+    },
+    "application_id_microsoft_word": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "PRESET_TAG_PRECISION_MODE",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        }
+      ]
+    },
+    "application_id_microsoft_powerpoint": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "PRESET_TAG_PRECISION_MODE",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        }
+      ]
+    },
+    "application_id_google_chrome": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "PRESET_TAG_PRECISION_MODE",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        }
+      ]
+    },
+    "application_id_microsoft_edge_chromium": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "PRESET_TAG_PRECISION_MODE",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        }
+      ]
+    },
+    "application_id_apple_safari": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "PRESET_TAG_PRECISION_MODE",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        }
+      ]
+    },
+    "application_id_microsoft_teams": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "PRESET_TAG_PRECISION_MODE",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE"
+          ]
+        },
+        {
+          "id": "199",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "200",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "224",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "265",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "259",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "284",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "228",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "229",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "230",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "231",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "232",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "233",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "419",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "425",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "426",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "427",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "428",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "429",
+          "infos": [
+            "PRESET_TAG_COPILOT_OOB",
+            "PRESET_TAG_KEYBOARD_RIGHT_OPT_OOB",
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "430",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "266",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "111",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "278",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "280",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "281",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "282",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "283",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "285",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        }
+      ]
+    },
+    "application_id_microsoft_teams_new": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "PRESET_TAG_PRECISION_MODE",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE"
+          ]
+        },
+        {
+          "id": "199",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "200",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "224",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "265",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "259",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "284",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "228",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "229",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "230",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "231",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "232",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "233",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "419",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "425",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "426",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "427",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "428",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "429",
+          "infos": [
+            "PRESET_TAG_COPILOT_OOB",
+            "PRESET_TAG_KEYBOARD_RIGHT_OPT_OOB",
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "430",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "266",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "111",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "278",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "280",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "281",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "282",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "283",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "285",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        }
+      ]
+    },
+    "application_id_zoom": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "PRESET_TAG_PRECISION_MODE",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE"
+          ]
+        },
+        {
+          "id": "199",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "200",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "224",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "265",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "259",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "284",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "228",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "229",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "230",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "231",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "232",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "233",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "419",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "425",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "426",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "427",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "428",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "429",
+          "infos": [
+            "PRESET_TAG_COPILOT_OOB",
+            "PRESET_TAG_KEYBOARD_RIGHT_OPT_OOB",
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "430",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "266",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "111",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "278",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "280",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "281",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "282",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "283",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "285",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        }
+      ]
+    },
+    "application_id_final_cut_pro": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "PRESET_TAG_PRECISION_MODE",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        }
+      ]
+    },
+    "application_id_we_chat": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_WECHAT_SCREEN_CAPTURE",
+            "PRESET_TAG_WECHAT_EMOJI",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_WECHAT_EMOJI"
+          ]
+        },
+        {
+          "id": "260",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_WECHAT_EMOJI"
+          ]
+        },
+        {
+          "id": "261",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_WECHAT_EMOJI"
+          ]
+        },
+        {
+          "id": "262",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_WECHAT_EMOJI"
+          ]
+        },
+        {
+          "id": "263",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_WECHAT_EMOJI"
+          ]
+        },
+        {
+          "id": "228",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "229",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "230",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "231",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "232",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "233",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "284",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "266",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "110",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "259",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        }
+      ]
+    },
+    "application_id_tencent_meeting": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "PRESET_TAG_PRECISION_MODE",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE"
+          ]
+        }
+      ]
+    },
+    "application_id_voov_meeting": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "PRESET_TAG_SCROLL_LEFT_RIGHT",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "PRESET_TAG_PRECISION_MODE",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE"
+          ]
+        }
+      ]
+    },
+    "application_id_whatsapp": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        }
+      ]
+    },
+    "application_id_line": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        }
+      ]
+    },
+    "application_id_kugoumusic": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        }
+      ]
+    },
+    "application_id_spotifymusic": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        }
+      ]
+    },
+    "application_id_ding_talk": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_MOUSE_SMARTSHIFT",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_GESTURE",
+            "PRESET_TAG_BRIGHTNESS",
+            "PRESET_TAG_SPOTLIGHT_EFFECTS"
+          ]
+        },
+        {
+          "id": "259",
+          "infos": [
+            "PRESET_TAG_KEYBOARD_SETTINGS",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_BRIGHTNESS"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "PRESET_TAG_DO_NOTHING",
+            "PRESET_TAG_MOUSE",
+            "PRESET_TAG_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON",
+            "PRESET_TAG_KEY_OR_BUTTON_ADVANCED_CLICK",
+            "PRESET_TAG_MISC",
+            "PRESET_TAG_GESTURE"
+          ]
+        }
+      ]
+    }
+  }
+}

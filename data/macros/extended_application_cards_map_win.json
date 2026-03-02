@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "applicationId": "application_id_google_chrome",
+      "cards": [
+        "card_global_presets_new_browser_tab"
+      ]
+    },
+    {
+      "applicationId": "application_id_microsoft_edge_chromium",
+      "cards": [
+        "card_global_presets_new_browser_tab"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "devices": [
+    {
+      "modelId": "44054",
+      "displayName": "Wireless Mouse",
+      "type": "MOUSE",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/rom_mice.png",
+      "winSupport": true,
+      "macSupport": true
+    },
+    {
+      "modelId": "4077",
+      "displayName": "K540e",
+      "type": "KEYBOARD",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/k540e.png",
+      "winSupport": true,
+      "macSupport": false
+    },
+    {
+      "modelId": "8c408",
+      "displayName": "USB Trackball",
+      "type": "MOUSE",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/marble.png",
+      "winSupport": false,
+      "macSupport": true
+    },
+    {
+      "modelId": "c408",
+      "displayName": "USB Trackball",
+      "type": "MOUSE",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/marble.png",
+      "winSupport": false,
+      "macSupport": true
+    },
+    {
+      "modelId": "8c062",
+      "displayName": "USB Laser Mouse",
+      "type": "MOUSE",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/ls1.png",
+      "winSupport": false,
+      "macSupport": true
+    },
+    {
+      "modelId": "c062",
+      "displayName": "USB Laser Mouse",
+      "type": "MOUSE",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/ls1.png",
+      "winSupport": false,
+      "macSupport": true
+    },
+    {
+      "modelId": "8c069",
+      "displayName": "M500",
+      "type": "MOUSE",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/m500.png",
+      "winSupport": true,
+      "macSupport": true
+    },
+    {
+      "modelId": "c069",
+      "displayName": "M500",
+      "type": "MOUSE",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/m500.png",
+      "winSupport": false,
+      "macSupport": true
+    },
+    {
+      "modelId": "4101d",
+      "displayName": "M505",
+      "type": "MOUSE",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/m505.png",
+      "winSupport": false,
+      "macSupport": true
+    },
+    {
+      "modelId": "101d",
+      "displayName": "M505",
+      "type": "MOUSE",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/m505.png",
+      "winSupport": false,
+      "macSupport": true
+    },
+    {
+      "modelId": "41025",
+      "displayName": "M510",
+      "type": "MOUSE",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/m510_1025.png",
+      "winSupport": false,
+      "macSupport": true
+    },
+    {
+      "modelId": "1025",
+      "displayName": "M510",
+      "type": "MOUSE",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/m510_1025.png",
+      "winSupport": false,
+      "macSupport": true
+    },
+    {
+      "modelId": "400f",
+      "displayName": "Wireless Solar Keyboard K750",
+      "type": "KEYBOARD",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/k750.png",
+      "winSupport": false,
+      "macSupport": true
+    }
+  ]
+}

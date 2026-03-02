@@ -1,0 +1,40 @@
+{
+  "devices": [
+    {
+      "modelId": "6b503",
+      "displayName": "Spotlight",
+      "type": "PRESENTER",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/spotlight.png"
+    },
+    {
+      "modelId": "b503",
+      "displayName": "Spotlight",
+      "type": "PRESENTER",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/spotlight.png"
+    },
+    {
+      "modelId": "405c",
+      "displayName": "Spotlight",
+      "type": "PRESENTER",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/spotlight.png"
+    },
+    {
+      "modelId": "6b505",
+      "displayName": "R500",
+      "type": "PRESENTER",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/r500.png"
+    },
+    {
+      "modelId": "b505",
+      "displayName": "R500",
+      "type": "PRESENTER",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/r500.png"
+    },
+    {
+      "modelId": "407a",
+      "displayName": "R500",
+      "type": "PRESENTER",
+      "thumbnail": "pipeline://logioptionsplus/thumbnails/r500.png"
+    }
+  ]
+}

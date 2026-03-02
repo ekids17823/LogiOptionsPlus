@@ -1,0 +1,708 @@
+{
+  "devices": {
+    "6b023": {
+      "appTable": [
+        {
+          "optionsGuid": "dfbaf1b7-a4fe-4f9c-9806-c332d47e9224",
+          "kirosGuid": "application_id_microsoft_edge_chromium",
+          "appName": "Microsoft Edge Chromium"
+        },
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "26f0bda7-21d1-43a0-8a5a-b2b7ceb8ba1f",
+          "kirosGuid": "",
+          "appName": "Microsoft Edge"
+        },
+        {
+          "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Microsoft Excel"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Microsoft Word"
+        }
+      ]
+    },
+    "6b025": {
+      "appTable": [
+        {
+          "optionsGuid": "dfbaf1b7-a4fe-4f9c-9806-c332d47e9224",
+          "kirosGuid": "application_id_microsoft_edge_chromium",
+          "appName": "Microsoft Edge Chromium"
+        },
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "26f0bda7-21d1-43a0-8a5a-b2b7ceb8ba1f",
+          "kirosGuid": "",
+          "appName": "Microsoft Edge"
+        },
+        {
+          "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Microsoft Excel"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Microsoft Word"
+        }
+      ]
+    },
+    "2b028": {
+      "appTable": [
+        {
+          "optionsGuid": "dfbaf1b7-a4fe-4f9c-9806-c332d47e9224",
+          "kirosGuid": "application_id_microsoft_edge_chromium",
+          "appName": "Microsoft Edge Chromium"
+        },
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "26f0bda7-21d1-43a0-8a5a-b2b7ceb8ba1f",
+          "kirosGuid": "",
+          "appName": "Microsoft Edge"
+        },
+        {
+          "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Microsoft Excel"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Microsoft Word"
+        }
+      ]
+    },
+    "2b02d": {
+      "appTable": [
+        {
+          "optionsGuid": "dfbaf1b7-a4fe-4f9c-9806-c332d47e9224",
+          "kirosGuid": "application_id_microsoft_edge_chromium",
+          "appName": "Microsoft Edge Chromium"
+        },
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "26f0bda7-21d1-43a0-8a5a-b2b7ceb8ba1f",
+          "kirosGuid": "",
+          "appName": "Microsoft Edge"
+        },
+        {
+          "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Microsoft Excel"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Microsoft Word"
+        }
+      ]
+    },
+    "2b030": {
+      "appTable": [
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "c2bc3dda-9b95-4c59-a3e7-3c3c82c4e372",
+          "kirosGuid": "application_id_we_chat",
+          "appName": "WeChat"
+        },
+        {
+          "optionsGuid": "5a95685e-b8ac-46d9-9e58-8683e4c3ecb1",
+          "kirosGuid": "application_id_we_chat",
+          "appName": "WeChat"
+        }
+      ]
+    },
+    "2b365": {
+      "appTable": [
+        {
+          "optionsGuid": "c2bc3dda-9b95-4c59-a3e7-3c3c82c4e372",
+          "kirosGuid": "application_id_we_chat",
+          "appName": "WeChat"
+        },
+        {
+          "optionsGuid": "5a95685e-b8ac-46d9-9e58-8683e4c3ecb1",
+          "kirosGuid": "application_id_we_chat",
+          "appName": "WeChat"
+        }
+      ]
+    },
+    "eb020": {
+      "appTable": [
+        {
+          "optionsGuid": "dfbaf1b7-a4fe-4f9c-9806-c332d47e9224",
+          "kirosGuid": "application_id_microsoft_edge_chromium",
+          "appName": "Microsoft Edge Chromium"
+        },
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "26f0bda7-21d1-43a0-8a5a-b2b7ceb8ba1f",
+          "kirosGuid": "",
+          "appName": "Microsoft Edge"
+        },
+        {
+          "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Microsoft Excel"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Microsoft Word"
+        }
+      ]
+    },
+    "6b01d": {
+      "appTable": [
+        {
+          "optionsGuid": "dfbaf1b7-a4fe-4f9c-9806-c332d47e9224",
+          "kirosGuid": "application_id_microsoft_edge_chromium",
+          "appName": "Microsoft Edge Chromium"
+        },
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "26f0bda7-21d1-43a0-8a5a-b2b7ceb8ba1f",
+          "kirosGuid": "",
+          "appName": "Microsoft Edge"
+        },
+        {
+          "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Microsoft Excel"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Microsoft Word"
+        }
+      ]
+    },
+    "6b012": {
+      "appTable": [
+        {
+          "optionsGuid": "dfbaf1b7-a4fe-4f9c-9806-c332d47e9224",
+          "kirosGuid": "application_id_microsoft_edge_chromium",
+          "appName": "Microsoft Edge Chromium"
+        },
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "26f0bda7-21d1-43a0-8a5a-b2b7ceb8ba1f",
+          "kirosGuid": "",
+          "appName": "Microsoft Edge"
+        },
+        {
+          "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Microsoft Excel"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Microsoft Word"
+        }
+      ]
+    },
+    "6b01e": {
+      "appTable": [
+        {
+          "optionsGuid": "dfbaf1b7-a4fe-4f9c-9806-c332d47e9224",
+          "kirosGuid": "application_id_microsoft_edge_chromium",
+          "appName": "Microsoft Edge Chromium"
+        },
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "26f0bda7-21d1-43a0-8a5a-b2b7ceb8ba1f",
+          "kirosGuid": "",
+          "appName": "Microsoft Edge"
+        },
+        {
+          "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Microsoft Excel"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Microsoft Word"
+        }
+      ]
+    },
+    "6b017": {
+      "appTable": [
+        {
+          "optionsGuid": "dfbaf1b7-a4fe-4f9c-9806-c332d47e9224",
+          "kirosGuid": "application_id_microsoft_edge_chromium",
+          "appName": "Microsoft Edge Chromium"
+        },
+        {
+          "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+          "kirosGuid": "application_id_google_chrome",
+          "appName": "Google Chrome"
+        },
+        {
+          "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51",
+          "kirosGuid": "application_id_zoom",
+          "appName": "Zoom"
+        },
+        {
+          "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece",
+          "kirosGuid": "application_id_microsoft_teams",
+          "appName": "Teams"
+        },
+        {
+          "optionsGuid": "26f0bda7-21d1-43a0-8a5a-b2b7ceb8ba1f",
+          "kirosGuid": "",
+          "appName": "Microsoft Edge"
+        },
+        {
+          "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a",
+          "kirosGuid": "application_id_microsoft_excel",
+          "appName": "Microsoft Excel"
+        },
+        {
+          "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924",
+          "kirosGuid": "application_id_adobe_premierepro",
+          "appName": "Adobe Premiere Pro"
+        },
+        {
+          "optionsGuid": "5bca6be6-fed8-4423-b509-82de912402ee",
+          "kirosGuid": "",
+          "appName": "Spotify"
+        },
+        {
+          "optionsGuid": "74350dfc-af50-4c6d-a794-713241725690",
+          "kirosGuid": "",
+          "appName": "Adobe Illustrator"
+        },
+        {
+          "optionsGuid": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+          "kirosGuid": "",
+          "appName": "Adobe InDesign"
+        },
+        {
+          "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8",
+          "kirosGuid": "application_id_microsoft_powerpoint",
+          "appName": "Microsoft PowerPoint"
+        },
+        {
+          "optionsGuid": "b230b36c-64c3-4aaf-9b06-e9dca28659e2",
+          "kirosGuid": "",
+          "appName": "Adobe Lightroom"
+        },
+        {
+          "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+          "kirosGuid": "application_id_adobe_photoshop",
+          "appName": "Adobe Photoshop"
+        },
+        {
+          "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b",
+          "kirosGuid": "application_id_microsoft_word",
+          "appName": "Microsoft Word"
+        }
+      ]
+    }
+  }
+}

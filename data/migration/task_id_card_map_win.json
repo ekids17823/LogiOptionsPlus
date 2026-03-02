@@ -1,0 +1,1437 @@
+{
+  "tcList": [
+    {
+      "taskId": "0",
+      "cardId": "card_global_presets_do_nothing"
+    },
+    {
+      "taskId": "8",
+      "cardId": "card_global_presets_win_switch_applications"
+    },
+    {
+      "taskId": "150",
+      "cardId": "card_global_presets_win_switch_applications"
+    },
+    {
+      "taskId": "157",
+      "cardId": "card_global_presets_mode_shift"
+    },
+    {
+      "taskId": "65617",
+      "cardId": "card_global_presets_win_task_view"
+    },
+    {
+      "taskId": "65619",
+      "cardId": "card_global_presets_win_task_view"
+    },
+    {
+      "taskId": "191",
+      "cardId": "card_global_presets_win_task_view"
+    },
+    {
+      "taskId": "67",
+      "cardId": "card_global_presets_win_hide_show_desktop"
+    },
+    {
+      "taskId": "59",
+      "cardId": "card_global_presets_win_back"
+    },
+    {
+      "taskId": "60",
+      "cardId": "card_global_presets_win_back"
+    },
+    {
+      "taskId": "153",
+      "cardId": "card_global_presets_win_back"
+    },
+    {
+      "taskId": "171",
+      "cardId": "card_global_presets_win_back"
+    },
+    {
+      "taskId": "61",
+      "cardId": "card_global_presets_win_forward"
+    },
+    {
+      "taskId": "62",
+      "cardId": "card_global_presets_win_forward"
+    },
+    {
+      "taskId": "172",
+      "cardId": "card_global_presets_win_forward"
+    },
+    {
+      "taskId": "63",
+      "cardId": "card_global_presets_scroll_left"
+    },
+    {
+      "taskId": "64",
+      "cardId": "card_global_presets_scroll_right"
+    },
+    {
+      "taskId": "78",
+      "cardId": "card_global_presets_win_copy"
+    },
+    {
+      "taskId": "81",
+      "cardId": "card_global_presets_win_cut"
+    },
+    {
+      "taskId": "133",
+      "cardId": "card_global_presets_win_paste"
+    },
+    {
+      "taskId": "134",
+      "cardId": "card_global_presets_win_undo"
+    },
+    {
+      "taskId": "139",
+      "cardId": "card_global_presets_win_redo"
+    },
+    {
+      "taskId": "4",
+      "cardId": "card_global_presets_media_play_pause"
+    },
+    {
+      "taskId": "6",
+      "cardId": "card_global_presets_media_previous_track"
+    },
+    {
+      "taskId": "5",
+      "cardId": "card_global_presets_media_next_track"
+    },
+    {
+      "taskId": "2",
+      "cardId": "card_global_presets_volume_down"
+    },
+    {
+      "taskId": "1",
+      "cardId": "card_global_presets_volume_up"
+    },
+    {
+      "taskId": "3",
+      "cardId": "card_global_presets_volume_mute"
+    },
+    {
+      "taskId": "65536",
+      "cardId": "card_global_presets_keyboard_shortcut"
+    },
+    {
+      "taskId": "65593",
+      "cardId": "card_global_presets_keyboard_shortcut"
+    },
+    {
+      "taskId": "155",
+      "cardId": "card_global_presets_win_screen_capture"
+    },
+    {
+      "taskId": "65656",
+      "cardId": "card_global_presets_win_print_screen"
+    },
+    {
+      "taskId": "158",
+      "cardId": "card_global_presets_win_screen_snip"
+    },
+    {
+      "taskId": "223",
+      "cardId": "card_global_presets_win_screen_snip"
+    },
+    {
+      "taskId": "58",
+      "cardId": "card_global_presets_middle_button"
+    },
+    {
+      "taskId": "164",
+      "cardId": "card_global_presets_brightness_up"
+    },
+    {
+      "taskId": "163",
+      "cardId": "card_global_presets_brightness_down"
+    },
+    {
+      "taskId": "68",
+      "cardId": "card_global_presets_lock"
+    },
+    {
+      "taskId": "65618",
+      "cardId": "card_global_presets_win_action_center"
+    },
+    {
+      "taskId": "192",
+      "cardId": "card_global_presets_win_action_center"
+    },
+    {
+      "taskId": "69714",
+      "cardId": "card_global_presets_win_action_center"
+    },
+    {
+      "taskId": "10",
+      "cardId": "card_global_presets_calculator"
+    },
+    {
+      "taskId": "82",
+      "cardId": "card_global_presets_do_nothing"
+    },
+    {
+      "taskId": "65534",
+      "cardId": "card_global_presets_do_nothing"
+    },
+    {
+      "taskId": "193",
+      "cardId": "card_global_presets_backlight_down"
+    },
+    {
+      "taskId": "194",
+      "cardId": "card_global_presets_backlight_up"
+    },
+    {
+      "taskId": "195",
+      "cardId": "card_global_presets_win_app_menu"
+    },
+    {
+      "taskId": "8528",
+      "cardId": "card_global_presets_thumbwheel_do_nothing"
+    },
+    {
+      "taskId": "25857",
+      "cardId": "card_global_presets_thumbwheel_do_nothing"
+    },
+    {
+      "taskId": "65557",
+      "cardId": "card_global_presets_win_horizontal_scroll"
+    },
+    {
+      "taskId": "65558",
+      "cardId": "card_global_presets_win_zoom_in_out"
+    },
+    {
+      "taskId": "65559",
+      "cardId": "card_global_presets_win_volume_control"
+    },
+    {
+      "taskId": "65560",
+      "cardId": "card_global_presets_win_tab_navigation"
+    },
+    {
+      "taskId": "65571",
+      "cardId": "card_global_presets_win_next_previous_track"
+    },
+    {
+      "taskId": "65572",
+      "cardId": "card_global_presets_win_forward_back"
+    },
+    {
+      "taskId": "65573",
+      "cardId": "card_global_presets_win_application_navigation"
+    },
+    {
+      "taskId": "65576",
+      "cardId": "card_global_presets_win_brightness_up_down"
+    },
+    {
+      "taskId": "65606",
+      "cardId": "card_global_presets_win_switch_desktops"
+    },
+    {
+      "taskId": "65651",
+      "cardId": "card_global_presets_copilot"
+    },
+    {
+      "taskId": "65607",
+      "cardId": "card_global_presets_one_of_gesture_button",
+      "selectedGestureCard": "virtual_desktops"
+    },
+    {
+      "taskId": "65584",
+      "cardId": "card_global_presets_one_of_gesture_button",
+      "selectedGestureCard": "media_control"
+    },
+    {
+      "taskId": "65589",
+      "cardId": "card_global_presets_one_of_gesture_button",
+      "selectedGestureCard": "window_management"
+    },
+    {
+      "taskId": "65568",
+      "cardId": "card_global_presets_one_of_gesture_button",
+      "selectedGestureCard": "window_management"
+    },
+    {
+      "taskId": "65561",
+      "cardId": "card_global_presets_one_of_gesture_button",
+      "selectedGestureCard": "application_navigation"
+    },
+    {
+      "taskId": "65577",
+      "cardId": "card_global_presets_one_of_gesture_button",
+      "selectedGestureCard": "zoom_rotate"
+    },
+    {
+      "taskId": "65555",
+      "cardId": "card_global_presets_one_of_gesture_button",
+      "selectedGestureCard": "pan"
+    },
+    {
+      "taskId": "65592",
+      "cardId": "card_global_presets_one_of_gesture_button",
+      "selectedGestureCard": "arrange_windows"
+    },
+    {
+      "taskId": "65580",
+      "cardId": "card_global_presets_one_of_gesture_button",
+      "selectedGestureCard": "custom_gesture"
+    },
+    {
+      "taskId": "168",
+      "cardId": "card_global_presets_one_of_gesture_button",
+      "selectedGestureCard": "custom_gesture"
+    },
+    {
+      "taskId": "235",
+      "cardId": "card_global_presets_win_insert"
+    },
+    {
+      "taskId": "236",
+      "cardId": "card_global_presets_win_delete"
+    },
+    {
+      "taskId": "237",
+      "cardId": "card_global_presets_win_home"
+    },
+    {
+      "taskId": "36867",
+      "cardId": "card_global_presets_win_home"
+    },
+    {
+      "taskId": "238",
+      "cardId": "card_global_presets_win_end"
+    },
+    {
+      "taskId": "36868",
+      "cardId": "card_global_presets_win_end"
+    },
+    {
+      "taskId": "239",
+      "cardId": "card_global_presets_win_page_up"
+    },
+    {
+      "taskId": "36865",
+      "cardId": "card_global_presets_win_page_up"
+    },
+    {
+      "taskId": "240",
+      "cardId": "card_global_presets_win_page_down"
+    },
+    {
+      "taskId": "36866",
+      "cardId": "card_global_presets_win_page_down"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "closeTab",
+      "cardId": "card_chrome_win_close_tab",
+      "appId": "application_id_google_chrome",
+      "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "reopenClosedTab",
+      "cardId": "card_chrome_win_reopen_tab",
+      "appId": "application_id_google_chrome",
+      "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "nextTab",
+      "cardId": "card_chrome_win_tab_next",
+      "appId": "application_id_google_chrome",
+      "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "previousTab",
+      "cardId": "card_chrome_win_tab_prev",
+      "appId": "application_id_google_chrome",
+      "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "openLinkNewTab",
+      "cardId": "card_chrome_win_new_tab_link",
+      "appId": "application_id_google_chrome",
+      "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "refreshPage",
+      "cardId": "card_chrome_win_refresh",
+      "appId": "application_id_google_chrome",
+      "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "newBrowser",
+      "cardId": "card_chrome_win_new_window",
+      "appId": "application_id_google_chrome",
+      "optionsGuid": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "closeTab",
+      "cardId": "card_edge_chromium_win_close_tab",
+      "appId": "application_id_microsoft_edge_chromium",
+      "optionsGuid": "dfbaf1b7-a4fe-4f9c-9806-c332d47e9224"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "reopenClosedTab",
+      "cardId": "card_edge_chromium_win_reopen_tab",
+      "appId": "application_id_microsoft_edge_chromium",
+      "optionsGuid": "dfbaf1b7-a4fe-4f9c-9806-c332d47e9224"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "nextTab",
+      "cardId": "card_edge_chromium_win_tab_next",
+      "appId": "application_id_microsoft_edge_chromium",
+      "optionsGuid": "dfbaf1b7-a4fe-4f9c-9806-c332d47e9224"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "previousTab",
+      "cardId": "card_edge_chromium_win_tab_prev",
+      "appId": "application_id_microsoft_edge_chromium",
+      "optionsGuid": "dfbaf1b7-a4fe-4f9c-9806-c332d47e9224"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "openLinkNewTab",
+      "cardId": "card_edge_chromium_win_tab_link",
+      "appId": "application_id_microsoft_edge_chromium",
+      "optionsGuid": "dfbaf1b7-a4fe-4f9c-9806-c332d47e9224"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "refreshPage",
+      "cardId": "card_edge_chromium_win_refresh",
+      "appId": "application_id_microsoft_edge_chromium",
+      "optionsGuid": "dfbaf1b7-a4fe-4f9c-9806-c332d47e9224"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "newBrowser",
+      "cardId": "card_edge_chromium_win_new_window",
+      "appId": "application_id_microsoft_edge_chromium",
+      "optionsGuid": "dfbaf1b7-a4fe-4f9c-9806-c332d47e9224"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "muteAudio",
+      "cardId": "card_teams_win_toggle_mic",
+      "appId": "application_id_microsoft_teams",
+      "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "stopVideo",
+      "cardId": "card_teams_win_toggle_camera",
+      "appId": "application_id_microsoft_teams",
+      "optionsGuid": "190ff3c4-36ad-41e6-a0b7-47c25f182ece"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "muteAudio",
+      "cardId": "card_zoom_win_toggle_mic",
+      "appId": "application_id_zoom",
+      "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "stopVideo",
+      "cardId": "card_zoom_win_toggle_camera",
+      "appId": "application_id_zoom",
+      "optionsGuid": "3a1386c9-926f-4e5a-97b9-7d500db06f51"
+    },
+    {
+      "taskId": "12",
+      "cardId": "card_global_presets_close_window"
+    },
+    {
+      "taskId": "65604",
+      "cardId": "card_global_presets_desktop_right"
+    },
+    {
+      "taskId": "65605",
+      "cardId": "card_global_presets_desktop_left"
+    },
+    {
+      "taskId": "197",
+      "cardId": "card_global_presets_new_browser_tab"
+    },
+    {
+      "taskId": "51",
+      "cardId": "card_global_presets_zoom_in"
+    },
+    {
+      "taskId": "53",
+      "cardId": "card_global_presets_zoom_out"
+    },
+    {
+      "taskId": "72",
+      "cardId": "card_global_presets_this_pc"
+    },
+    {
+      "taskId": "149",
+      "cardId": "card_global_presets_maximize_window"
+    },
+    {
+      "taskId": "148",
+      "cardId": "card_global_presets_minimize_window"
+    },
+    {
+      "taskId": "65544",
+      "cardId": "card_global_presets_open_file"
+    },
+    {
+      "taskId": "65545",
+      "cardId": "card_global_presets_open_folder"
+    },
+    {
+      "taskId": "65540",
+      "cardId": "card_global_presets_open_application"
+    },
+    {
+      "taskId": "45",
+      "cardId": "card_global_presets_search"
+    },
+    {
+      "taskId": "177",
+      "cardId": "card_global_presets_search"
+    },
+    {
+      "taskId": "186",
+      "cardId": "card_global_presets_win_switch_language"
+    },
+    {
+      "taskId": "48",
+      "cardId": "card_global_presets_this_pc"
+    },
+    {
+      "taskId": "65538",
+      "cardId": "card_global_presets_shut_down"
+    },
+    {
+      "taskId": "47",
+      "cardId": "card_global_presets_sleep"
+    },
+    {
+      "taskId": "178",
+      "cardId": "card_global_presets_home"
+    },
+    {
+      "taskId": "86",
+      "cardId": "card_global_presets_home"
+    },
+    {
+      "taskId": "26",
+      "cardId": "card_global_presets_home"
+    },
+    {
+      "taskId": "179",
+      "cardId": "card_global_presets_right_click"
+    },
+    {
+      "taskId": "65600",
+      "cardId": "card_global_presets_advanced_click"
+    },
+    {
+      "taskId": "56",
+      "cardId": "card_global_presets_advanced_click"
+    },
+    {
+      "taskId": "57",
+      "cardId": "card_global_presets_advanced_click"
+    },
+    {
+      "taskId": "65548",
+      "cardId": "card_global_presets_advanced_click"
+    },
+    {
+      "taskId": "65650",
+      "cardId": "card_global_presets_win_keystroke_2ways"
+    },
+    {
+      "taskId": "65650",
+      "taskName": "customUpDownKeystroke",
+      "cardId": "card_photoshop_customUpDownKeystroke",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "save",
+      "cardId": "card_photoshop_win_save",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "157",
+      "taskName": "wheelModeShift",
+      "cardId": "card_global_presets_mode_shift",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "65636",
+      "taskName": "changetoolvalue",
+      "cardId": "card_photoshop_changetoolvalue",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131075",
+      "taskName": "zoom2",
+      "cardId": "card_photoshop_zoom",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "65672",
+      "cardId": "card_photoshop_win_redo_undo",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "65624",
+      "cardId": "card_photoshop_win_redo_undo",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131075",
+      "taskName": "redoundo2",
+      "cardId": "card_photoshop_win_redo_undo",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "65673",
+      "cardId": "card_global_presets_win_undo",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "65674",
+      "cardId": "card_global_presets_win_redo",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "65671",
+      "cardId": "card_photoshop_pan_hold_move",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "65536",
+      "taskName": "keystrokeassignment",
+      "cardId": "card_photoshop_keystrokeassignment",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131076",
+      "taskName": "brushSize",
+      "cardId": "card_photoshop_brushSize",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "brushSizeUp",
+      "cardId": "card_photoshop_brushSizeUp",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "brushSizeDown",
+      "cardId": "card_photoshop_brushSizeDown",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131076",
+      "taskName": "brushHardness",
+      "cardId": "card_photoshop_brushHardness",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "brushHardnessUp",
+      "cardId": "card_photoshop_brushHardnessUp",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "brushHardnessDown",
+      "cardId": "card_photoshop_brushHardnessDown",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131076",
+      "taskName": "brushOpacity",
+      "cardId": "card_photoshop_brushOpacity",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "brushOpacityUp",
+      "cardId": "card_photoshop_brushOpacityUp",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "brushOpacityDown",
+      "cardId": "card_photoshop_brushOpacityDown",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "zoomIn",
+      "cardId": "card_photoshop_zoomIn",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "zoomOut",
+      "cardId": "card_photoshop_zoomOut",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "zoomToFitScreen",
+      "cardId": "card_photoshop_zoomToFitScreen",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131076",
+      "taskName": "tabNavigation",
+      "cardId": "card_photoshop_tabNavigation",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "tabNavigationPrev",
+      "cardId": "card_photoshop_tabNavigationPrev",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "tabNavigationNext",
+      "cardId": "card_photoshop_tabNavigationNext",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "setToolDodgeTool",
+      "cardId": "card_photoshop_setToolDodgeTool",
+      "appId": "application_id_adobe_photoshop",
+      "optionsGuid": "b230b36c-c624-40e3-a120-5486fdf4df0e"
+    },
+    {
+      "taskId": "151",
+      "cardId": "card_global_presets_home"
+    },
+    {
+      "taskId": "152",
+      "cardId": "card_global_presets_right_click"
+    },
+    {
+      "taskId": "241",
+      "cardId": "card_global_presets_microphone_mute"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "sheetNavigationNext",
+      "cardId": "card_excel_win_nextSheet",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "sheetNavigationPrevious",
+      "cardId": "card_excel_win_prevSheet",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "gotoTopOfDataRegion",
+      "cardId": "card_excel_win_goTop",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "gotoBottomOfDataRegion",
+      "cardId": "card_excel_win_goBottom",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "51",
+      "taskName": "zoomIn",
+      "cardId": "card_excel_win_zoomIn",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "53",
+      "taskName": "zoomOut",
+      "cardId": "card_excel_win_zoomOut",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "insertRow",
+      "cardId": "card_excel_win_insertRow",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "insertColumn",
+      "cardId": "card_excel_win_insertColumn",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "pasteSpecial",
+      "cardId": "card_excel_win_pasteSpecial",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "pasteValuesOnly",
+      "cardId": "card_excel_win_pasteValuesOnly",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "pasteFormatOnly",
+      "cardId": "card_excel_win_pasteFormatOnly",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "createChart2",
+      "cardId": "card_excel_win_createChart2",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "middleButton",
+      "cardId": "card_excel_win_middle_button",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "save",
+      "cardId": "card_excel_win_save",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "textSizeUp",
+      "cardId": "card_excel_win_textSizeUp",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "textSizeDown",
+      "cardId": "card_excel_win_textSizeDown",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131075",
+      "taskName": "sheetNavigation",
+      "cardId": "card_excel_win_sheetNavigation",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "65558",
+      "taskName": "zoom2",
+      "cardId": "card_excel_win_zoom",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131075",
+      "taskName": "undoredo2",
+      "cardId": "card_excel_win_redoUndo",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131076",
+      "taskName": "textSizeUpDown",
+      "cardId": "card_excel_win_textSize",
+      "appId": "application_id_microsoft_excel",
+      "optionsGuid": "4caa44eb-cdf0-4ecd-b823-38b28187e59a"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "zoomIn",
+      "cardId": "card_word_win_zoomIn",
+      "appId": "application_id_microsoft_word",
+      "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "zoomOut",
+      "cardId": "card_word_win_zoomOut",
+      "appId": "application_id_microsoft_word",
+      "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "textSizeUp",
+      "cardId": "card_word_win_textSizeUp",
+      "appId": "application_id_microsoft_word",
+      "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "textSizeDown",
+      "cardId": "card_word_win_textSizeDown",
+      "appId": "application_id_microsoft_word",
+      "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "pageUp",
+      "cardId": "card_word_win_pageUp",
+      "appId": "application_id_microsoft_word",
+      "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "pageDown",
+      "cardId": "card_word_win_pageDown",
+      "appId": "application_id_microsoft_word",
+      "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "print",
+      "cardId": "card_word_win_print",
+      "appId": "application_id_microsoft_word",
+      "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "find",
+      "cardId": "card_word_win_find",
+      "appId": "application_id_microsoft_word",
+      "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "pasteKeepTextOnly",
+      "cardId": "card_word_win_pasteValuesOnly",
+      "appId": "application_id_microsoft_word",
+      "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "middleButton",
+      "cardId": "card_word_win_middle_button",
+      "appId": "application_id_microsoft_word",
+      "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "save",
+      "cardId": "card_word_win_save",
+      "appId": "application_id_microsoft_word",
+      "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b"
+    },
+    {
+      "taskId": "131076",
+      "taskName": "zoom2",
+      "cardId": "card_word_win_zoom",
+      "appId": "application_id_microsoft_word",
+      "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b"
+    },
+    {
+      "taskId": "131076",
+      "taskName": "textSize",
+      "cardId": "card_word_win_textSize",
+      "appId": "application_id_microsoft_word",
+      "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b"
+    },
+    {
+      "taskId": "131075",
+      "taskName": "pageUpDown",
+      "cardId": "card_word_win_page_navigation",
+      "appId": "application_id_microsoft_word",
+      "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b"
+    },
+    {
+      "taskId": "131075",
+      "taskName": "undoredo",
+      "cardId": "card_word_win_redo_undo",
+      "appId": "application_id_microsoft_word",
+      "optionsGuid": "ca7c0911-fbf7-4e87-9c23-25987358303b"
+    },
+    {
+      "taskId": "216",
+      "cardId": "card_global_presets_win_dictation"
+    },
+    {
+      "taskId": "221",
+      "cardId": "card_global_presets_win_emojis_menu"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "zoomIn",
+      "cardId": "card_powerpoint_win_zoomIn",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "zoomOut",
+      "cardId": "card_powerpoint_win_zoomOut",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131074",
+      "taskName": "pan",
+      "cardId": "card_powerpoint_win_middle_button",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "duplicateSlide",
+      "cardId": "card_powerpoint_win_slide_duplicate",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "playFromCurrentSlide",
+      "cardId": "card_powerpoint_win_play_current",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "bringToFront",
+      "cardId": "card_powerpoint_win_bringToFront",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "newSlide",
+      "cardId": "card_powerpoint_win_slide_new",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "sendToBack",
+      "cardId": "card_powerpoint_win_sendToBack",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "slideNavigationNext",
+      "cardId": "card_powerpoint_win_slide_navigation_next",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "slideNavigationPrevious",
+      "cardId": "card_powerpoint_win_slide_navigation_prev",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "textSizeUp",
+      "cardId": "card_powerpoint_win_text_size_up",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "textSizeDown",
+      "cardId": "card_powerpoint_win_text_size_down",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "save",
+      "cardId": "card_powerpoint_win_save",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131076",
+      "taskName": "zoom",
+      "cardId": "card_powerpoint_win_zoom",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131076",
+      "taskName": "zOrder",
+      "cardId": "card_powerpoint_win_zOrder",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131075",
+      "taskName": "textSizeUpDown",
+      "cardId": "card_powerpoint_win_text_size",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131075",
+      "taskName": "slideNavigation",
+      "cardId": "card_powerpoint_win_slide_navigation",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "131075",
+      "taskName": "undoredo",
+      "cardId": "card_powerpoint_win_redo_undo",
+      "appId": "application_id_microsoft_powerpoint",
+      "optionsGuid": "abc9594a-1092-4a3a-8a1d-d05e602a10b8"
+    },
+    {
+      "taskId": "63",
+      "taskName": "timelineScrollLeft",
+      "cardId": "card_premiere_pro_win_scrollLeft",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "64",
+      "taskName": "timelineScrollRight",
+      "cardId": "card_premiere_pro_win_scrollRight",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "zoomIn",
+      "cardId": "card_premiere_pro_win_zoomIn",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "zoomOut",
+      "cardId": "card_premiere_pro_win_zoomOut",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "deleteSelection",
+      "cardId": "card_premiere_pro_win_deleteSelection",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "startPausePlayback",
+      "cardId": "card_premiere_pro_win_startPausePlayback",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "moveframeNext",
+      "cardId": "card_premiere_pro_moveFrameNext",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131073",
+      "taskName": "moveframePrev",
+      "cardId": "card_premiere_pro_moveFramePrev",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "editPointNavigationNext",
+      "cardId": "card_premiere_pro_win_nextEditPoint",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "editPointNavigationPrev",
+      "cardId": "card_premiere_pro_win_prevEditPoint",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131074",
+      "taskName": "pan",
+      "cardId": "card_premiere_pro_win_middleButton",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "addMarker",
+      "cardId": "card_premiere_pro_win_addMarker",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "deleteMarker",
+      "cardId": "card_premiere_pro_win_delCurrentMarker",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "markerNavigationNext",
+      "cardId": "card_premiere_pro_win_gotoNextMarker",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "markerNavigationPrev",
+      "cardId": "card_premiere_pro_win_gotoPrevMarker",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "renderEffects",
+      "cardId": "card_premiere_pro_win_renderEffects",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "razorTool",
+      "cardId": "card_premiere_pro_win_razorTool",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "selectionTool",
+      "cardId": "card_premiere_pro_win_selectionTool",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "undo2",
+      "cardId": "card_premiere_pro_win_undo",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "redo",
+      "cardId": "card_premiere_pro_win_redo",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "save",
+      "cardId": "card_premiere_pro_win_save",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "65557",
+      "taskName": "horizontalScroll",
+      "cardId": "card_global_presets_win_horizontal_scroll",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131075",
+      "taskName": "zoom2",
+      "cardId": "card_global_presets_win_zoom_in_out",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131075",
+      "taskName": "editPointNavigation",
+      "cardId": "card_premiere_pro_win_naviageEditPoint",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131075",
+      "taskName": "markerNavigation",
+      "cardId": "card_premiere_pro_win_naviageMarkerPoints",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "131076",
+      "taskName": "moveframe2",
+      "cardId": "card_premiere_pro_win_timeline_playhead_navigation",
+      "appId": "application_id_adobe_premierepro",
+      "optionsGuid": "5a41d08c-ea91-4958-8543-8721072c6924"
+    },
+    {
+      "taskId": "210",
+      "cardId": "card_global_presets_change_pointer_speed"
+    },
+    {
+      "taskId": "65808",
+      "cardId": "card_global_presets_change_pointer_speed"
+    },
+    {
+      "taskId": "65809",
+      "cardId": "card_global_presets_change_pointer_speed"
+    },
+    {
+      "taskId": "65591",
+      "cardId": "card_global_presets_change_pointer_speed"
+    },
+    {
+      "taskId": "196",
+      "cardId": "card_global_presets_toggle_precision_mode"
+    },
+    {
+      "taskId": "131072",
+      "taskName": "screenCaptureWeChat",
+      "cardId": "card_wechat_win_screen_capture",
+      "appId": "application_id_we_chat",
+      "optionsGuid": "c2bc3dda-9b95-4c59-a3e7-3c3c82c4e372"
+    },
+    {
+      "taskId": "139810",
+      "cardId": "card_global_presets_win_emoji"
+    },
+    {
+      "taskId": "217",
+      "cardId": "card_global_presets_win_emoji"
+    },
+    {
+      "taskId": "218",
+      "cardId": "card_global_presets_win_emoji"
+    },
+    {
+      "taskId": "219",
+      "cardId": "card_global_presets_win_emoji"
+    },
+    {
+      "taskId": "220",
+      "cardId": "card_global_presets_win_emoji"
+    },
+    {
+      "taskId": "139811",
+      "cardId": "card_wechat_win_emoji",
+      "appId": "application_id_we_chat",
+      "optionsGuid": "c2bc3dda-9b95-4c59-a3e7-3c3c82c4e372"
+    },
+    {
+      "taskId": "139812",
+      "cardId": "card_wechat_win_emoji",
+      "appId": "application_id_we_chat",
+      "optionsGuid": "c2bc3dda-9b95-4c59-a3e7-3c3c82c4e372"
+    },
+    {
+      "taskId": "139813",
+      "cardId": "card_wechat_win_emoji",
+      "appId": "application_id_we_chat",
+      "optionsGuid": "c2bc3dda-9b95-4c59-a3e7-3c3c82c4e372"
+    },
+    {
+      "taskId": "139814",
+      "cardId": "card_wechat_win_emoji",
+      "appId": "application_id_we_chat",
+      "optionsGuid": "c2bc3dda-9b95-4c59-a3e7-3c3c82c4e372"
+    },
+    {
+      "taskId": "139815",
+      "cardId": "card_wechat_win_emoji",
+      "appId": "application_id_we_chat",
+      "optionsGuid": "c2bc3dda-9b95-4c59-a3e7-3c3c82c4e372"
+    },
+    {
+      "taskId": "1317",
+      "cardId": "card_global_presets_do_nothing"
+    },
+    {
+      "taskId": "65535",
+      "cardId": "card_global_presets_do_nothing"
+    },
+    {
+      "taskId": "36869",
+      "cardId": "card_global_presets_win_screen_snip"
+    },
+    {
+      "taskId": "14",
+      "cardId": "card_global_presets_win_email"
+    },
+    {
+      "taskId": "29",
+      "cardId": "card_global_presets_win_media"
+    },
+    {
+      "taskId": "147",
+      "cardId": "card_global_presets_win_switch_screen"
+    },
+    {
+      "taskId": "65652",
+      "cardId": "card_global_presets_open_chatgpt"
+    },
+    {
+      "taskId": "65653",
+      "cardId": "card_global_presets_open_ai_overlay"
+    }
+  ]
+}

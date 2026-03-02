@@ -1,0 +1,62 @@
+{
+  "cards": [
+    {
+      "id": "card_global_presets_open_chatgpt",
+      "name": "ASSIGNMENT_NAME_OPEN_CHATGPT",
+      "attribute": "MACRO_PLAYBACK",
+      "readOnly": true,
+      "continuous": false,
+      "macro": {
+        "type": "ARTIFICIAL_INTELLIGENCE",
+        "onboardable": false,
+        "actionName": "",
+        "icon": "",
+        "artificial_intelligence": {
+          "action": "CHATGPT"
+        }
+      },
+      "nestedCards": {},
+      "icons": {
+        "uri": "pipeline://system_actions/",
+        "icons": [
+          "OpenApp.png",
+          "OpenApp.svg"
+        ]
+      },
+      "tags": [
+        "PRESET_TAG_KEY_OR_BUTTON",
+        "AI_PROMPT_BUILDER_TAG"
+      ],
+      "taskId": 65652
+    },
+    {
+      "id": "card_global_presets_open_ai_overlay",
+      "name": "ASSIGNMENT_NAME_OPEN_AI_OVERLAY",
+      "attribute": "MACRO_PLAYBACK",
+      "readOnly": true,
+      "continuous": false,
+      "macro": {
+        "type": "ARTIFICIAL_INTELLIGENCE",
+        "onboardable": false,
+        "actionName": "",
+        "icon": "",
+        "artificial_intelligence": {
+          "action": "AI_OVERLAY"
+        }
+      },
+      "nestedCards": {},
+      "icons": {
+        "uri": "pipeline://system_actions/",
+        "icons": [
+          "OpenApp.png",
+          "OpenApp.svg"
+        ]
+      },
+      "tags": [
+        "PRESET_TAG_KEY_OR_BUTTON",
+        "AI_PROMPT_BUILDER_TAG"
+      ],
+      "taskId": 65653
+    }
+  ]
+}

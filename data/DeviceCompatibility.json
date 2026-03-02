@@ -1,0 +1,91 @@
+{
+  "v1": {
+    "version": "1",
+    "map": {
+      "bb00": "bbxx",
+      "bb01": "bbxx"
+    },
+    "bbxx": {
+      "info": {
+        "type": "touchpad",
+        "leftHanded": false,
+        "vertical": false
+      },
+      "pairing": [
+        {
+          "comment": "bb00 requires c548 16",
+          "receiverPid": "c548",
+          "deviceFwAtLeast": null,
+          "deviceFwLessThan": null,
+          "receiverFwAtLeast": null,
+          "receiverFwLessThan": 16,
+          "action": "update",
+          "deviceUpdateMinFw": null,
+          "receiverUpdateMinFw": 16,
+          "supportPage": "bb00_pair"
+        },
+        {
+          "comment": "bb00 not supported by c52b",
+          "receiverPid": "c52b",
+          "action": "deny",
+          "supportPage": "bb00_pair"
+        }
+      ],
+      "dfu": [
+        {
+          "comment": "bb00 DFU requires c548 16",
+          "receiverPid": "c548",
+          "deviceFwAtLeast": null,
+          "deviceFwLessThan": null,
+          "receiverFwAtLeast": null,
+          "receiverFwLessThan": 16,
+          "action": "update",
+          "deviceUpdateMinFw": null,
+          "receiverUpdateMinFw": 16,
+          "supportPage": "bb00_dfu"
+        }
+      ]
+    },
+    "b031": {
+      "info": {
+        "type": "mouse",
+        "leftHanded": false,
+        "vertical": false
+      },
+      "pairing": [
+        {
+          "comment": "b031 requires c548 10",
+          "receiverPid": "c548",
+          "deviceFwAtLeast": null,
+          "deviceFwLessThan": null,
+          "receiverFwAtLeast": null,
+          "receiverFwLessThan": 10,
+          "action": "update",
+          "deviceUpdateMinFw": null,
+          "receiverUpdateMinFw": 10,
+          "supportPage": "b031_pair"
+        },
+        {
+          "comment": "b031 not supported by c52b",
+          "receiverPid": "c52b",
+          "action": "deny",
+          "supportPage": "b031_pair"
+        }
+      ],
+      "dfu": [
+        {
+          "comment": "b031 DFU requires c548 10",
+          "receiverPid": "c548",
+          "deviceFwAtLeast": null,
+          "deviceFwLessThan": null,
+          "receiverFwAtLeast": null,
+          "receiverFwLessThan": 10,
+          "action": "update",
+          "deviceUpdateMinFw": null,
+          "receiverUpdateMinFw": 10,
+          "supportPage": "b031_dfu"
+        }
+      ]
+    }
+  }
+}

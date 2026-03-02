@@ -1,0 +1,12 @@
+{
+  "asMap": [
+    {
+      "optionsAttribute": "showLockNotifications",
+      "kirosConfiguration": "lock_notifications_enabled"
+    },
+    {
+      "optionsAttribute": "showLowBatteryNotifications",
+      "kirosConfiguration": "low_battery_notifications_enabled"
+    }
+  ]
+}

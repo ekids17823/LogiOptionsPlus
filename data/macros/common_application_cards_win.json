@@ -1,0 +1,99 @@
+{
+  "cards": [
+    {
+      "id": "macro_presets_open_application_win",
+      "name": "ASSIGNMENT_NAME_OPEN_APPLICATION",
+      "attribute": "MACRO_PLAYBACK",
+      "readOnly": true,
+      "continuous": false,
+      "macro": {
+        "type": "OPEN_FILE_FOLDER",
+        "open_file_folder": {
+          "path": "",
+          "appName": ""
+        }
+      },
+      "tags": [
+        "PRESET_TAG_KEY_OR_BUTTON"
+      ],
+      "applicationId": "",
+      "taskId": 65540
+    },
+    {
+      "id": "macro_presets_close_application_win",
+      "name": "ASSIGNMENT_NAME_CLOSE_APPLICATION",
+      "attribute": "MACRO_PLAYBACK",
+      "readOnly": true,
+      "continuous": false,
+      "macro": {
+        "type": "APP_WINDOWS_MANAGEMENT",
+        "appWindowsManagement": {
+          "path": "",
+          "action": "CLOSE",
+          "appName": ""
+        }
+      },
+      "tags": [
+        "PRESET_TAG_KEY_OR_BUTTON"
+      ],
+      "applicationId": ""
+    },
+    {
+      "id": "macro_presets_bring_to_foreground_win",
+      "name": "ASSIGNMENT_NAME_BRING_TO_FOREGROUND",
+      "attribute": "MACRO_PLAYBACK",
+      "readOnly": true,
+      "continuous": false,
+      "macro": {
+        "type": "APP_WINDOWS_MANAGEMENT",
+        "appWindowsManagement": {
+          "path": "",
+          "action": "BRING_TO_FOREGROUND",
+          "appName": ""
+        }
+      },
+      "tags": [
+        "PRESET_TAG_KEY_OR_BUTTON"
+      ],
+      "applicationId": ""
+    },
+    {
+      "id": "macro_presets_maximize_application_win",
+      "name": "ASSIGNMENT_NAME_MAXIMIZE_APPLICATION",
+      "attribute": "MACRO_PLAYBACK",
+      "readOnly": true,
+      "continuous": false,
+      "macro": {
+        "type": "APP_WINDOWS_MANAGEMENT",
+        "appWindowsManagement": {
+          "path": "",
+          "action": "MAXIMIZE",
+          "appName": ""
+        }
+      },
+      "tags": [
+        "PRESET_TAG_KEY_OR_BUTTON"
+      ],
+      "applicationId": ""
+    },
+    {
+      "id": "macro_presets_minimize_application_win",
+      "name": "ASSIGNMENT_NAME_MINIMIZE_APPLICATION",
+      "attribute": "MACRO_PLAYBACK",
+      "readOnly": true,
+      "continuous": false,
+      "macro": {
+        "type": "APP_WINDOWS_MANAGEMENT",
+        "appWindowsManagement": {
+          "path": "",
+          "action": "MINIMIZE",
+          "appName": ""
+        }
+      },
+      "tags": [
+        "PRESET_TAG_KEY_OR_BUTTON"
+      ],
+      "applicationId": ""
+    }
+  ]
+}

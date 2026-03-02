@@ -1,0 +1,8 @@
+{
+  "asMap": [
+    {
+      "optionsAttribute": "lowBatteryOsd",
+      "kirosConfiguration": "low_battery_notifications_enabled"
+    }
+  ]
+}

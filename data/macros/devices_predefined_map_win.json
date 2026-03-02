@@ -1,0 +1,400 @@
+{
+  "data": [
+    {
+      "slotPrefix": "signature-k950-2b386",
+      "predefinedIds": [
+        "macros_preset_work_mode",
+        "macros_preset_meeting_mode",
+        "macros_preset_social_media_break",
+        "macros_preset_netflix_break",
+        "macros_preset_reply_with_chat_gpt"
+      ]
+    },
+    {
+      "slotPrefix": "signature-k950-2b388",
+      "predefinedIds": [
+        "macros_preset_work_mode",
+        "macros_preset_meeting_mode",
+        "macros_preset_social_media_break",
+        "macros_preset_netflix_break",
+        "macros_preset_reply_with_chat_gpt"
+      ]
+    },
+    {
+      "slotPrefix": "signature-k950-2b395",
+      "predefinedIds": [
+        "macros_preset_work_mode",
+        "macros_preset_meeting_mode",
+        "macros_preset_social_media_break",
+        "macros_preset_netflix_break",
+        "macros_preset_reply_with_chat_gpt"
+      ]
+    },
+    {
+      "slotPrefix": "signature-m650-2b02a",
+      "predefinedIds": [
+        "macros_preset_work_mode",
+        "macros_preset_meeting_mode",
+        "macros_preset_social_media_break",
+        "macros_preset_netflix_break",
+        "macros_preset_reply_with_chat_gpt"
+      ]
+    },
+    {
+      "slotPrefix": "signature-m650-2b032",
+      "predefinedIds": [
+        "macros_preset_work_mode",
+        "macros_preset_meeting_mode",
+        "macros_preset_social_media_break",
+        "macros_preset_netflix_break",
+        "macros_preset_reply_with_chat_gpt"
+      ]
+    },
+    {
+      "slotPrefix": "signature-m750-2b02c",
+      "predefinedIds": [
+        "macros_preset_work_mode",
+        "macros_preset_meeting_mode",
+        "macros_preset_social_media_break",
+        "macros_preset_netflix_break",
+        "macros_preset_reply_with_chat_gpt"
+      ]
+    },
+    {
+      "slotPrefix": "signature-plus-m750-2b03d",
+      "predefinedIds": [
+        "macros_preset_work_mode",
+        "macros_preset_meeting_mode",
+        "macros_preset_social_media_break",
+        "macros_preset_netflix_break",
+        "macros_preset_reply_with_chat_gpt"
+      ]
+    },
+    {
+      "slotPrefix": "signature-m550-2b02b",
+      "predefinedIds": [
+        "macros_preset_work_mode",
+        "macros_preset_meeting_mode",
+        "macros_preset_social_media_break",
+        "macros_preset_netflix_break",
+        "macros_preset_reply_with_chat_gpt"
+      ]
+    },
+    {
+      "slotPrefix": "signature-m520-8c0a2",
+      "predefinedIds": [
+        "macros_preset_netflix_break",
+        "macros_preset_meeting_mode",
+        "macros_preset_social_media_break",
+        "macros_preset_work_mode",
+        "macros_preset_reply_with_chat_gpt"
+      ]
+    },
+    {
+      "slotPrefix": "k650-2b36f",
+      "predefinedIds": [
+        "macros_preset_work_mode",
+        "macros_preset_meeting_mode",
+        "macros_preset_social_media_break",
+        "macros_preset_netflix_break",
+        "macros_preset_reply_with_chat_gpt"
+      ]
+    },
+    {
+      "slotPrefix": "k650-for-business-2b370",
+      "predefinedIds": [
+        "macros_preset_work_mode",
+        "macros_preset_meeting_mode",
+        "macros_preset_social_media_break",
+        "macros_preset_netflix_break",
+        "macros_preset_reply_with_chat_gpt"
+      ]
+    },
+    {
+      "slotPrefix": "alto-keys-k98m-2b38e",
+      "predefinedIds": [],
+      "controlIdRecommendation": [
+        {
+          "controlId": "419",
+          "predefinedIds": [
+            "macros_preset_meeting_mode",
+            "macros_preset_social_media_break",
+            "macros_preset_social_media_break_ch",
+            "macros_preset_work_mode",
+            "macros_preset_work_mode_ch"
+          ]
+        },
+        {
+          "controlId": "420",
+          "predefinedIds": [
+            "macros_preset_meeting_mode",
+            "macros_preset_social_media_break",
+            "macros_preset_social_media_break_ch",
+            "macros_preset_work_mode",
+            "macros_preset_work_mode_ch"
+          ]
+        },
+        {
+          "controlId": "421",
+          "predefinedIds": [
+            "macros_preset_meeting_mode",
+            "macros_preset_social_media_break",
+            "macros_preset_social_media_break_ch",
+            "macros_preset_work_mode",
+            "macros_preset_work_mode_ch"
+          ]
+        }
+      ]
+    },
+    {
+      "slotPrefix": "alto-keys-k75m-2b396",
+      "predefinedIds": [],
+      "controlIdRecommendation": [
+        {
+          "controlId": "419",
+          "predefinedIds": [
+            "macros_preset_meeting_mode",
+            "macros_preset_social_media_break",
+            "macros_preset_social_media_break_ch",
+            "macros_preset_work_mode",
+            "macros_preset_work_mode_ch"
+          ]
+        },
+        {
+          "controlId": "420",
+          "predefinedIds": [
+            "macros_preset_meeting_mode",
+            "macros_preset_social_media_break",
+            "macros_preset_social_media_break_ch",
+            "macros_preset_work_mode",
+            "macros_preset_work_mode_ch"
+          ]
+        },
+        {
+          "controlId": "421",
+          "predefinedIds": [
+            "macros_preset_meeting_mode",
+            "macros_preset_social_media_break",
+            "macros_preset_social_media_break_ch",
+            "macros_preset_work_mode",
+            "macros_preset_work_mode_ch"
+          ]
+        },
+        {
+          "controlId": "422",
+          "predefinedIds": [
+            "macros_preset_meeting_mode",
+            "macros_preset_social_media_break",
+            "macros_preset_social_media_break_ch",
+            "macros_preset_work_mode",
+            "macros_preset_work_mode_ch"
+          ]
+        }
+      ]
+    },
+    {
+      "slotPrefix": "pop-mouse-2b030",
+      "predefinedIds": [],
+      "controlIdRecommendation": [
+        {
+          "controlId": "82",
+          "predefinedIds": [
+            "macros_preset_work_mode",
+            "macros_preset_focus_time",
+            "macros_preset_netflix_break",
+            "macros_preset_work_mode_ch",
+            "macros_preset_qq_music_time",
+            "macros_preset_iqiyi_break"
+          ]
+        },
+        {
+          "controlId": "264",
+          "predefinedIds": [
+            "macros_preset_meeting_mode",
+            "macros_preset_social_media_break",
+            "macros_preset_select_and_search_the_web",
+            "macros_preset_social_media_break_ch",
+            "macros_preset_select_and_baidu_search"
+          ]
+        }
+      ]
+    },
+    {
+      "slotPrefix": "pop-icon-keys-2b38f",
+      "predefinedIds": [],
+      "controlIdRecommendation": [
+        {
+          "controlId": "419",
+          "predefinedIds": [
+            "macros_preset_work_mode",
+            "macros_preset_work_mode_ch",
+            "macros_preset_meeting_mode"
+          ]
+        },
+        {
+          "controlId": "420",
+          "predefinedIds": [
+            "macros_preset_focus_time",
+            "macros_preset_netflix_break",
+            "macros_preset_qq_music_time",
+            "macros_preset_iqiyi_break"
+          ]
+        },
+        {
+          "controlId": "421",
+          "predefinedIds": [
+            "macros_preset_social_media_break",
+            "macros_preset_select_and_search_the_web",
+            "macros_preset_social_media_break_ch",
+            "macros_preset_select_and_baidu_search"
+          ]
+        },
+        {
+          "controlId": "422",
+          "predefinedIds": [
+            "macros_preset_ask_perplexity",
+            "macros_preset_open_urls",
+            "macros_preset_kimi",
+            "macros_preset_open_urls_ch"
+          ]
+        }
+      ]
+    },
+    {
+      "slotPrefix": "signature-solar-b2b-2b394",
+      "predefinedIds": [
+        "macros_preset_work_mode",
+        "macros_preset_meeting_mode",
+        "macros_preset_social_media_break",
+        "macros_preset_netflix_break",
+        "macros_preset_reply_with_chat_gpt",
+        "macros_preset_iqiyi_break",
+        "macros_preset_work_mode_ch",
+        "macros_preset_social_media_break_ch"
+      ],
+      "controlIdRecommendation": [
+        {
+          "controlId": "429",
+          "predefinedIds": [
+            "macros_preset_ask_perplexity",
+            "macros_preset_reply_with_chat_gpt",
+            "macros_preset_kimi",
+            "macros_preset_select_and_baidu_search"
+          ]
+        },
+        {
+          "controlId": "430",
+          "predefinedIds": [
+            "macros_preset_ask_perplexity",
+            "macros_preset_reply_with_chat_gpt",
+            "macros_preset_kimi",
+            "macros_preset_select_and_baidu_search"
+          ]
+        }
+      ]
+    },
+    {
+      "slotPrefix": "signature-solar-2b391",
+      "predefinedIds": [
+        "macros_preset_work_mode",
+        "macros_preset_meeting_mode",
+        "macros_preset_social_media_break",
+        "macros_preset_netflix_break",
+        "macros_preset_reply_with_chat_gpt",
+        "macros_preset_iqiyi_break",
+        "macros_preset_work_mode_ch",
+        "macros_preset_social_media_break_ch"
+      ],
+      "controlIdRecommendation": [
+        {
+          "controlId": "429",
+          "predefinedIds": [
+            "macros_preset_ask_perplexity",
+            "macros_preset_reply_with_chat_gpt",
+            "macros_preset_kimi",
+            "macros_preset_select_and_baidu_search"
+          ]
+        },
+        {
+          "controlId": "430",
+          "predefinedIds": [
+            "macros_preset_ask_perplexity",
+            "macros_preset_reply_with_chat_gpt",
+            "macros_preset_kimi",
+            "macros_preset_select_and_baidu_search"
+          ]
+        }
+      ]
+    },
+    {
+      "slotPrefix": "signature-solar-mac-2b392",
+      "predefinedIds": [
+        "macros_preset_work_mode",
+        "macros_preset_meeting_mode",
+        "macros_preset_social_media_break",
+        "macros_preset_netflix_break",
+        "macros_preset_reply_with_chat_gpt",
+        "macros_preset_iqiyi_break",
+        "macros_preset_work_mode_ch",
+        "macros_preset_social_media_break_ch"
+      ]
+    },
+    {
+      "slotPrefix": "signature-k855-2b372",
+      "predefinedIds": [
+        "macros_preset_work_mode",
+        "macros_preset_meeting_mode",
+        "macros_preset_social_media_break",
+        "macros_preset_netflix_break",
+        "macros_preset_reply_with_chat_gpt"
+      ]
+    },
+    {
+      "slotPrefix": "signature-k865-2b381",
+      "predefinedIds": [
+        "macros_preset_work_mode",
+        "macros_preset_meeting_mode",
+        "macros_preset_social_media_break",
+        "macros_preset_netflix_break",
+        "macros_preset_reply_with_chat_gpt"
+      ]
+    },
+    {
+      "slotPrefix": "signature-k620-8c35d",
+      "predefinedIds": [],
+      "controlIdRecommendation": [
+        {
+          "controlId": "419",
+          "predefinedIds": [
+            "macros_preset_work_mode",
+            "macros_preset_meeting_mode",
+            "macros_preset_social_media_break",
+            "macros_preset_netflix_break",
+            "macros_preset_reply_with_chat_gpt",
+            "macros_preset_iqiyi_break",
+            "macros_preset_work_mode_ch",
+            "macros_preset_social_media_break_ch"
+          ]
+        },
+        {
+          "controlId": "429",
+          "predefinedIds": [
+            "macros_preset_ask_perplexity",
+            "macros_preset_reply_with_chat_gpt",
+            "macros_preset_kimi",
+            "macros_preset_select_and_baidu_search"
+          ]
+        },
+        {
+          "controlId": "430",
+          "predefinedIds": [
+            "macros_preset_ask_perplexity",
+            "macros_preset_reply_with_chat_gpt",
+            "macros_preset_kimi",
+            "macros_preset_select_and_baidu_search"
+          ]
+        }
+      ]
+    }
+  ]
+}

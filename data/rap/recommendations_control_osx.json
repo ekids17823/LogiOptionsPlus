@@ -1,0 +1,2802 @@
+{
+  "data": {
+    "application_id_adobe_photoshop": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_photoshop_pan_hold_move",
+            "card_global_presets_mode_shift",
+            "card_photoshop_zoomToFitScreen",
+            "card_photoshop_osx_save",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "card_global_presets_osx_undo",
+            "card_global_presets_osx_copy",
+            "card_photoshop_tabNavigationPrev",
+            "card_photoshop_brushSizeDown",
+            "card_photoshop_zoomOut",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "card_global_presets_osx_redo",
+            "card_global_presets_osx_paste",
+            "card_photoshop_tabNavigationNext",
+            "card_photoshop_brushSizeUp",
+            "card_photoshop_zoomIn",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "card_photoshop_brushSizeDown",
+            "card_photoshop_zoomOut",
+            "card_photoshop_tabNavigationPrev",
+            "card_photoshop_brushOpacityDown",
+            "card_global_presets_osx_undo",
+            "card_global_presets_keyboard_shortcut",
+            "card_global_presets_scroll_left"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "card_photoshop_brushSizeUp",
+            "card_photoshop_zoomIn",
+            "card_photoshop_tabNavigationNext",
+            "card_photoshop_brushOpacityUp",
+            "card_global_presets_osx_redo",
+            "card_global_presets_keyboard_shortcut",
+            "card_global_presets_scroll_right"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "card_global_presets_one_of_gesture_button",
+            "card_photoshop_zoomToFitScreen",
+            "card_photoshop_setToolDodgeTool",
+            "card_photoshop_osx_save",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "card_global_presets_mode_shift",
+            "card_global_presets_one_of_gesture_button",
+            "card_photoshop_pan_hold_move",
+            "card_photoshop_osx_save",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "card_global_presets_toggle_precision_mode",
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_media_play_pause"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_one_of_gesture_button",
+            "card_photoshop_pan_hold_move",
+            "card_photoshop_osx_save",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        }
+      ]
+    },
+    "application_id_adobe_premierepro": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_premiere_pro_osx_pan",
+            "card_premiere_pro_osx_deleteSelection",
+            "card_global_presets_mode_shift",
+            "card_premiere_pro_osx_razorTool",
+            "card_premiere_pro_osx_selectionTool",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "card_global_presets_osx_undo",
+            "card_global_presets_osx_copy",
+            "card_premiere_pro_osx_prevEditPoint",
+            "card_premiere_pro_osx_razorTool",
+            "card_premiere_pro_osx_selectionTool",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "card_global_presets_osx_redo",
+            "card_global_presets_osx_paste",
+            "card_premiere_pro_osx_nextEditPoint",
+            "card_premiere_pro_osx_razorTool",
+            "card_premiere_pro_osx_deleteSelection",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "card_premiere_pro_osx_scrollLeft",
+            "card_premiere_pro_osx_zoomOut",
+            "card_premiere_pro_osx_moveFramePrev",
+            "card_premiere_pro_osx_prevEditPoint",
+            "card_premiere_pro_osx_gotoPreviousMarker",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "card_premiere_pro_osx_scrollRight",
+            "card_premiere_pro_osx_zoomIn",
+            "card_premiere_pro_osx_moveFrameNext",
+            "card_premiere_pro_osx_nextEditPoint",
+            "card_premiere_pro_osx_gotoNextMarker",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "card_global_presets_one_of_gesture_button",
+            "card_premiere_pro_osx_startPausePlayback",
+            "card_premiere_pro_osx_deleteSelection",
+            "card_premiere_pro_osx_razorTool",
+            "card_premiere_pro_osx_selectionTool",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "card_global_presets_mode_shift",
+            "card_global_presets_one_of_gesture_button",
+            "card_premiere_pro_osx_startPausePlayback",
+            "card_premiere_pro_osx_save",
+            "card_premiere_pro_osx_deleteSelection",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "card_global_presets_toggle_precision_mode",
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_media_play_pause"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_one_of_gesture_button",
+            "card_premiere_pro_osx_startPausePlayback",
+            "card_premiere_pro_osx_save",
+            "card_premiere_pro_osx_deleteSelection",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        }
+      ]
+    },
+    "application_id_microsoft_excel": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_excel_presets_osx_pan",
+            "card_global_presets_mode_shift",
+            "card_excel_osx_save",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "card_global_presets_osx_undo",
+            "card_global_presets_osx_copy",
+            "card_excel_osx_prevSheet",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "card_global_presets_osx_redo",
+            "card_global_presets_osx_paste",
+            "card_excel_osx_pasteSpecial",
+            "card_excel_osx_nextSheet",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "card_global_presets_scroll_left",
+            "card_excel_osx_prevSheet",
+            "card_excel_osx_zoomOut",
+            "card_global_presets_osx_undo",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "card_global_presets_scroll_right",
+            "card_excel_osx_nextSheet",
+            "card_excel_osx_zoomIn",
+            "card_global_presets_osx_redo",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "card_global_presets_one_of_gesture_button",
+            "card_excel_osx_save",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "card_global_presets_mode_shift",
+            "card_excel_presets_osx_pan",
+            "card_global_presets_one_of_gesture_button",
+            "card_excel_osx_save",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "card_global_presets_toggle_precision_mode",
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_media_play_pause"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "card_global_presets_change_pointer_speed",
+            "card_excel_presets_osx_pan",
+            "card_global_presets_one_of_gesture_button",
+            "card_excel_osx_save",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        }
+      ]
+    },
+    "application_id_microsoft_word": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_word_presets_osx_pan",
+            "card_global_presets_mode_shift",
+            "card_word_osx_paste_match_format",
+            "card_word_osx_save",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "card_global_presets_osx_undo",
+            "card_global_presets_osx_copy",
+            "card_global_presets_osx_paste",
+            "card_word_osx_pageUp",
+            "card_word_osx_pageDown",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "card_global_presets_osx_redo",
+            "card_global_presets_osx_paste",
+            "card_global_presets_osx_copy",
+            "card_word_osx_pageDown",
+            "card_word_osx_pageUp",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "card_word_osx_zoomIn",
+            "card_word_osx_text_size_up",
+            "card_global_presets_scroll_left",
+            "card_word_osx_pageUp",
+            "card_global_presets_osx_undo",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "card_word_osx_zoomOut",
+            "card_word_osx_text_size_down",
+            "card_global_presets_scroll_right",
+            "card_word_osx_pageDown",
+            "card_global_presets_osx_redo",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "card_global_presets_one_of_gesture_button",
+            "card_word_osx_save",
+            "card_word_osx_find",
+            "card_word_osx_paste_match_format",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "card_global_presets_mode_shift",
+            "card_word_presets_osx_pan",
+            "card_global_presets_one_of_gesture_button",
+            "card_word_osx_paste_match_format",
+            "card_word_osx_save",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "card_global_presets_toggle_precision_mode",
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_media_play_pause"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "card_global_presets_change_pointer_speed",
+            "card_word_presets_osx_pan",
+            "card_global_presets_one_of_gesture_button",
+            "card_word_osx_paste_match_format",
+            "card_word_osx_save",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        }
+      ]
+    },
+    "application_id_microsoft_powerpoint": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_powerpoint_presets_osx_pan",
+            "card_global_presets_middle_button",
+            "card_global_presets_mode_shift",
+            "card_powerpoint_osx_save",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "card_global_presets_osx_undo",
+            "card_global_presets_osx_copy",
+            "card_powerpoint_osx_slide_duplicate",
+            "card_powerpoint_osx_slide_navigation_prev",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "card_global_presets_osx_redo",
+            "card_global_presets_osx_paste",
+            "card_powerpoint_osx_slide_new",
+            "card_powerpoint_osx_slide_navigation_next",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "card_powerpoint_osx_zoomIn",
+            "card_powerpoint_osx_text_size_up",
+            "card_powerpoint_osx_slide_navigation_prev",
+            "card_global_presets_osx_undo",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "card_powerpoint_osx_zoomOut",
+            "card_powerpoint_osx_text_size_down",
+            "card_powerpoint_osx_slide_navigation_next",
+            "card_global_presets_osx_redo",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "card_global_presets_one_of_gesture_button",
+            "card_powerpoint_osx_save",
+            "card_powerpoint_osx_slide_new",
+            "card_powerpoint_osx_slide_duplicate",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "card_global_presets_mode_shift",
+            "card_global_presets_one_of_gesture_button",
+            "card_powerpoint_osx_save",
+            "card_powerpoint_osx_slide_new",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "card_global_presets_toggle_precision_mode",
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_media_play_pause"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_one_of_gesture_button",
+            "card_powerpoint_osx_save",
+            "card_powerpoint_osx_slide_new",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        }
+      ]
+    },
+    "application_id_google_chrome": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_global_presets_middle_button",
+            "card_chrome_osx_refresh",
+            "card_global_presets_new_browser_tab",
+            "card_global_presets_mode_shift",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "card_global_presets_osx_back",
+            "card_global_presets_osx_undo",
+            "card_global_presets_osx_copy",
+            "card_chrome_osx_close_tab",
+            "card_global_presets_new_browser_tab",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "card_global_presets_osx_forward",
+            "card_global_presets_osx_redo",
+            "card_global_presets_osx_paste",
+            "card_chrome_osx_reopen_tab",
+            "card_chrome_osx_refresh",
+            "card_global_presets_new_browser_tab",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "card_chrome_osx_tab_prev",
+            "card_chrome_osx_zoom_out",
+            "card_global_presets_osx_back",
+            "card_global_presets_volume_down",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "card_chrome_osx_tab_next",
+            "card_chrome_osx_zoom_in",
+            "card_global_presets_osx_forward",
+            "card_global_presets_volume_up",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "card_global_presets_one_of_gesture_button",
+            "card_chrome_osx_refresh",
+            "card_chrome_osx_close_tab",
+            "card_chrome_osx_reopen_tab",
+            "card_global_presets_new_browser_tab",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "card_global_presets_mode_shift",
+            "card_global_presets_middle_button",
+            "card_global_presets_one_of_gesture_button",
+            "card_chrome_osx_refresh",
+            "card_global_presets_new_browser_tab",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "card_global_presets_toggle_precision_mode",
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_media_play_pause"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_middle_button",
+            "card_global_presets_one_of_gesture_button",
+            "card_chrome_osx_refresh",
+            "card_global_presets_new_browser_tab",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        }
+      ]
+    },
+    "application_id_apple_safari": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_global_presets_middle_button",
+            "card_safari_osx_refresh",
+            "card_global_presets_new_browser_tab",
+            "card_global_presets_mode_shift",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "card_global_presets_osx_back",
+            "card_global_presets_osx_undo",
+            "card_global_presets_osx_copy",
+            "card_safari_osx_close_tab",
+            "card_global_presets_new_browser_tab",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "card_global_presets_osx_forward",
+            "card_global_presets_osx_redo",
+            "card_global_presets_osx_paste",
+            "card_safari_osx_reopen_tab",
+            "card_safari_osx_refresh",
+            "card_global_presets_new_browser_tab",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "card_safari_osx_tab_prev",
+            "card_safari_osx_zoom_out",
+            "card_global_presets_osx_back",
+            "card_global_presets_volume_down",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "card_safari_osx_tab_next",
+            "card_safari_osx_zoom_in",
+            "card_global_presets_osx_forward",
+            "card_global_presets_volume_up",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "card_global_presets_one_of_gesture_button",
+            "card_safari_osx_refresh",
+            "card_safari_osx_close_tab",
+            "card_safari_osx_reopen_tab",
+            "card_global_presets_new_browser_tab",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "card_global_presets_mode_shift",
+            "card_global_presets_middle_button",
+            "card_global_presets_one_of_gesture_button",
+            "card_safari_osx_refresh",
+            "card_global_presets_new_browser_tab",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "card_global_presets_toggle_precision_mode",
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_media_play_pause"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_middle_button",
+            "card_global_presets_one_of_gesture_button",
+            "card_safari_osx_refresh",
+            "card_global_presets_new_browser_tab",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        }
+      ]
+    },
+    "application_id_microsoft_teams": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_global_presets_middle_button",
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "card_teams_osx_toggle_camera",
+            "card_teams_osx_toggle_mic",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "card_global_presets_volume_down",
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "card_global_presets_volume_up",
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "card_global_presets_one_of_gesture_button",
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "card_global_presets_mode_shift",
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "card_global_presets_change_pointer_speed",
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "card_global_presets_do_nothing",
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "199",
+          "infos": [
+            "card_global_presets_brightness_down",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "200",
+          "infos": [
+            "card_global_presets_brightness_up",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "224",
+          "infos": [
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "259",
+          "infos": [
+            "card_global_presets_osx_dictation",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "card_global_presets_osx_emojis_menu",
+            "card_global_presets_osx_emoji",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "265",
+          "infos": [
+            "card_global_presets_osx_launch_pad",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "228",
+          "infos": [
+            "card_global_presets_media_previous_track",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "229",
+          "infos": [
+            "card_global_presets_media_play_pause",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "230",
+          "infos": [
+            "card_global_presets_media_next_track",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "231",
+          "infos": [
+            "card_global_presets_volume_mute",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "232",
+          "infos": [
+            "card_global_presets_volume_down",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "233",
+          "infos": [
+            "card_global_presets_volume_up",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "266",
+          "infos": [
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "111",
+          "infos": [
+            "card_global_presets_lock",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "278",
+          "infos": [
+            "card_global_presets_do_nothing",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "280",
+          "infos": [
+            "card_global_presets_osx_home",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "281",
+          "infos": [
+            "card_global_presets_osx_end",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "282",
+          "infos": [
+            "card_global_presets_osx_page_up",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "283",
+          "infos": [
+            "card_global_presets_osx_page_down",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "419",
+          "infos": [
+            "card_teams_osx_share_screen",
+            "card_global_presets_keyboard_shortcut",
+            "card_teams_osx_open_chat"
+          ]
+        },
+        {
+          "id": "284",
+          "infos": [
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "285",
+          "infos": [
+            "card_global_presets_osx_do_not_disturb",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "428",
+          "infos": [
+            "card_teams_osx_toggle_camera",
+            "card_teams_osx_toggle_mic",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "425",
+          "infos": [
+            "card_global_presets_osx_cut",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "426",
+          "infos": [
+            "card_global_presets_osx_copy",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "427",
+          "infos": [
+            "card_global_presets_osx_paste",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "429",
+          "infos": [
+            "card_global_presets_osx_right_opt_oob",
+            "card_global_presets_open_chatgpt",
+            "card_global_presets_open_logi_ai_portal",
+            "card_global_presets_open_ai_overlay"
+          ]
+        },
+        {
+          "id": "430",
+          "infos": [
+            "card_global_presets_modifier_right_opt",
+            "card_global_presets_open_chatgpt",
+            "card_global_presets_open_logi_ai_portal",
+            "card_global_presets_open_ai_overlay"
+          ]
+        }
+      ]
+    },
+    "application_id_microsoft_teams_new": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_global_presets_middle_button",
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "card_teams_osx_toggle_camera",
+            "card_teams_osx_toggle_mic",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "card_global_presets_volume_down",
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "card_global_presets_volume_up",
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "card_global_presets_one_of_gesture_button",
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "card_global_presets_mode_shift",
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "card_global_presets_change_pointer_speed",
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "card_global_presets_do_nothing",
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "265",
+          "infos": [
+            "card_global_presets_osx_launch_pad",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "199",
+          "infos": [
+            "card_global_presets_brightness_down",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "200",
+          "infos": [
+            "card_global_presets_brightness_up",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "224",
+          "infos": [
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "259",
+          "infos": [
+            "card_global_presets_osx_dictation",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "card_global_presets_osx_emojis_menu",
+            "card_global_presets_osx_emoji",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "228",
+          "infos": [
+            "card_global_presets_media_previous_track",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "229",
+          "infos": [
+            "card_global_presets_media_play_pause",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "230",
+          "infos": [
+            "card_global_presets_media_next_track",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "231",
+          "infos": [
+            "card_global_presets_volume_mute",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "232",
+          "infos": [
+            "card_global_presets_volume_down",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "233",
+          "infos": [
+            "card_global_presets_volume_up",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "266",
+          "infos": [
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "111",
+          "infos": [
+            "card_global_presets_lock",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "278",
+          "infos": [
+            "card_global_presets_do_nothing",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "280",
+          "infos": [
+            "card_global_presets_osx_home",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "281",
+          "infos": [
+            "card_global_presets_osx_end",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "282",
+          "infos": [
+            "card_global_presets_osx_page_up",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "283",
+          "infos": [
+            "card_global_presets_osx_page_down",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "419",
+          "infos": [
+            "card_teams_osx_share_screen",
+            "card_global_presets_keyboard_shortcut",
+            "card_teams_osx_open_chat"
+          ]
+        },
+        {
+          "id": "284",
+          "infos": [
+            "card_teams_osx_toggle_mic",
+            "card_teams_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "285",
+          "infos": [
+            "card_global_presets_osx_do_not_disturb",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "428",
+          "infos": [
+            "card_teams_osx_toggle_camera",
+            "card_teams_osx_toggle_mic",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "425",
+          "infos": [
+            "card_global_presets_osx_cut",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "426",
+          "infos": [
+            "card_global_presets_osx_copy",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "427",
+          "infos": [
+            "card_global_presets_osx_paste",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "429",
+          "infos": [
+            "card_global_presets_osx_right_opt_oob",
+            "card_global_presets_open_chatgpt",
+            "card_global_presets_open_logi_ai_portal",
+            "card_global_presets_open_ai_overlay"
+          ]
+        },
+        {
+          "id": "430",
+          "infos": [
+            "card_global_presets_modifier_right_opt",
+            "card_global_presets_open_chatgpt",
+            "card_global_presets_open_logi_ai_portal",
+            "card_global_presets_open_ai_overlay"
+          ]
+        }
+      ]
+    },
+    "application_id_zoom": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_global_presets_middle_button",
+            "card_zoom_osx_toggle_mic",
+            "card_zoom_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "card_zoom_osx_toggle_mic",
+            "card_zoom_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "card_zoom_osx_toggle_camera",
+            "card_zoom_osx_toggle_mic",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "card_global_presets_volume_down",
+            "card_zoom_osx_toggle_mic",
+            "card_zoom_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "card_global_presets_volume_up",
+            "card_zoom_osx_toggle_mic",
+            "card_zoom_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "card_global_presets_one_of_gesture_button",
+            "card_zoom_osx_toggle_mic",
+            "card_zoom_osx_toggle_camera"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "card_global_presets_mode_shift",
+            "card_zoom_osx_toggle_mic",
+            "card_zoom_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "card_zoom_osx_toggle_mic",
+            "card_zoom_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "card_global_presets_change_pointer_speed",
+            "card_zoom_osx_toggle_mic",
+            "card_zoom_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "card_global_presets_do_nothing",
+            "card_zoom_osx_toggle_mic",
+            "card_zoom_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "265",
+          "infos": [
+            "card_global_presets_osx_launch_pad",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "199",
+          "infos": [
+            "card_global_presets_brightness_down",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "200",
+          "infos": [
+            "card_global_presets_brightness_up",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "224",
+          "infos": [
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "259",
+          "infos": [
+            "card_global_presets_osx_dictation",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "card_global_presets_osx_emojis_menu",
+            "card_global_presets_osx_emoji",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "228",
+          "infos": [
+            "card_global_presets_media_previous_track",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "229",
+          "infos": [
+            "card_global_presets_media_play_pause",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "230",
+          "infos": [
+            "card_global_presets_media_next_track",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "231",
+          "infos": [
+            "card_global_presets_volume_mute",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "232",
+          "infos": [
+            "card_global_presets_volume_down",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "233",
+          "infos": [
+            "card_global_presets_volume_up",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "266",
+          "infos": [
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "111",
+          "infos": [
+            "card_global_presets_lock",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "278",
+          "infos": [
+            "card_global_presets_do_nothing",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "280",
+          "infos": [
+            "card_global_presets_osx_home",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "281",
+          "infos": [
+            "card_global_presets_osx_end",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "282",
+          "infos": [
+            "card_global_presets_osx_page_up",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "283",
+          "infos": [
+            "card_global_presets_osx_page_down",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "419",
+          "infos": [
+            "card_zoom_osx_share_screen",
+            "card_global_presets_keyboard_shortcut",
+            "card_zoom_osx_open_chat"
+          ]
+        },
+        {
+          "id": "284",
+          "infos": [
+            "card_zoom_osx_toggle_mic",
+            "card_zoom_osx_toggle_camera",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "285",
+          "infos": [
+            "card_global_presets_osx_do_not_disturb",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "428",
+          "infos": [
+            "card_zoom_osx_toggle_camera",
+            "card_zoom_osx_toggle_mic",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "425",
+          "infos": [
+            "card_global_presets_osx_cut",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "426",
+          "infos": [
+            "card_global_presets_osx_copy",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "427",
+          "infos": [
+            "card_global_presets_osx_paste",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "429",
+          "infos": [
+            "card_global_presets_osx_right_opt_oob",
+            "card_global_presets_open_chatgpt",
+            "card_global_presets_open_logi_ai_portal",
+            "card_global_presets_open_ai_overlay"
+          ]
+        },
+        {
+          "id": "430",
+          "infos": [
+            "card_global_presets_modifier_right_opt",
+            "card_global_presets_open_chatgpt",
+            "card_global_presets_open_logi_ai_portal",
+            "card_global_presets_open_ai_overlay"
+          ]
+        }
+      ]
+    },
+    "420fd454-0c36-499d-bde4-146823b16147": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_global_presets_middle_button",
+            "card_global_presets_mode_shift",
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_osx_hide_show_desktop",
+            "card_global_presets_one_of_gesture_button",
+            "card_global_presets_keyboard_shortcut",
+            "card_global_presets_spotlight_effects"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "card_global_presets_osx_back",
+            "card_global_presets_osx_copy",
+            "card_global_presets_volume_down",
+            "card_global_presets_osx_undo",
+            "card_global_presets_keyboard_shortcut",
+            "card_global_presets_spotlight_effects"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "card_global_presets_osx_forward",
+            "card_global_presets_osx_paste",
+            "card_global_presets_volume_up",
+            "card_global_presets_osx_redo",
+            "card_global_presets_keyboard_shortcut",
+            "card_global_presets_spotlight_effects"
+          ]
+        },
+        {
+          "id": "89",
+          "infos": [
+            "card_global_presets_osx_mission_control"
+          ]
+        },
+        {
+          "id": "94",
+          "infos": [
+            "card_global_presets_osx_smart_zoom"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "card_global_presets_one_of_gesture_button",
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_osx_hide_show_desktop",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_osx_switch_apps",
+            "card_global_presets_keyboard_shortcut",
+            "card_global_presets_spotlight_effects"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "card_global_presets_mode_shift",
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_middle_button",
+            "card_global_presets_one_of_gesture_button",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut",
+            "card_global_presets_spotlight_effects"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "card_global_presets_osx_back",
+            "card_global_presets_spotlight_effects"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "card_global_presets_osx_forward",
+            "card_global_presets_spotlight_effects"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_middle_button",
+            "card_global_presets_keyboard_shortcut",
+            "card_global_presets_one_of_gesture_button",
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_osx_hide_show_desktop",
+            "card_global_presets_spotlight_effects"
+          ]
+        },
+        {
+          "id": "254",
+          "infos": [
+            "card_global_presets_osx_hide_show_desktop",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "194",
+          "infos": [
+            "card_global_presets_lock",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "199",
+          "infos": [
+            "card_global_presets_brightness_down",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "200",
+          "infos": [
+            "card_global_presets_brightness_up",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "212",
+          "infos": [
+            "card_global_presets_osx_search",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "213",
+          "infos": [
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "214",
+          "infos": [
+            "card_global_presets_osx_launch_pad",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "221",
+          "infos": [
+            "card_global_presets_osx_switch_language",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "289",
+          "infos": [
+            "card_global_presets_osx_language_switch",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "224",
+          "infos": [
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "225",
+          "infos": [
+            "card_global_presets_osx_launch_pad",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "265",
+          "infos": [
+            "card_global_presets_osx_launch_pad",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "187",
+          "infos": [
+            "card_global_presets_osx_launch_pad",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "186",
+          "infos": [
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "188",
+          "infos": [
+            "card_global_presets_right_click",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "189",
+          "infos": [
+            "card_global_presets_osx_back",
+            "card_global_presets_osx_undo",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "62",
+          "infos": [
+            "card_global_presets_osx_search",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "110",
+          "infos": [
+            "card_global_presets_osx_hide_show_desktop",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "226",
+          "infos": [
+            "card_global_presets_backlight_down",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "227",
+          "infos": [
+            "card_global_presets_backlight_up",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "228",
+          "infos": [
+            "card_global_presets_media_previous_track",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "229",
+          "infos": [
+            "card_global_presets_media_play_pause",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "230",
+          "infos": [
+            "card_global_presets_media_next_track",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "231",
+          "infos": [
+            "card_global_presets_volume_mute",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "232",
+          "infos": [
+            "card_global_presets_volume_down",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "233",
+          "infos": [
+            "card_global_presets_volume_up",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "10",
+          "infos": [
+            "card_global_presets_calculator",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "191",
+          "infos": [
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "234",
+          "infos": [
+            "card_global_presets_osx_lookup",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "111",
+          "infos": [
+            "card_global_presets_lock",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "13",
+          "infos": [
+            "card_global_presets_osx_eject",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "259",
+          "infos": [
+            "card_global_presets_osx_dictation",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "266",
+          "infos": [
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "279",
+          "infos": [
+            "card_global_presets_osx_delete",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "206",
+          "infos": [
+            "card_global_presets_osx_back",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "284",
+          "infos": [
+            "card_global_presets_microphone_mute",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "285",
+          "infos": [
+            "card_global_presets_osx_do_not_disturb",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "278",
+          "infos": [
+            "card_global_presets_do_nothing",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "287",
+          "infos": [
+            "card_global_presets_osx_refresh",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "280",
+          "infos": [
+            "card_global_presets_osx_home",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "238",
+          "infos": [
+            "card_global_presets_new_browser_tab",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "281",
+          "infos": [
+            "card_global_presets_osx_end",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "288",
+          "infos": [
+            "card_global_presets_osx_close_tab",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "282",
+          "infos": [
+            "card_global_presets_osx_page_up",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "166",
+          "infos": [
+            "card_global_presets_osx_systempreferences",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "283",
+          "infos": [
+            "card_global_presets_osx_page_down",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "321",
+          "infos": [
+            "card_global_presets_media_play_pause",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "card_global_presets_toggle_precision_mode",
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_media_play_pause",
+            "card_global_presets_keyboard_shortcut",
+            "card_global_presets_spotlight_effects"
+          ]
+        },
+        {
+          "id": "260",
+          "infos": [
+            "card_global_presets_osx_emoji",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "261",
+          "infos": [
+            "card_global_presets_osx_emoji",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "262",
+          "infos": [
+            "card_global_presets_osx_emoji",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "263",
+          "infos": [
+            "card_global_presets_osx_emoji",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "card_global_presets_osx_emojis_menu",
+            "card_global_presets_osx_emoji",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "24",
+          "infos": [
+            "card_global_presets_osx_print",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "255",
+          "infos": [
+            "card_global_presets_osx_launch_pad",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "256",
+          "infos": [
+            "card_global_presets_osx_switch_apps",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "216",
+          "infos": [
+            "card_global_presets_gesture_button_highlights"
+          ]
+        },
+        {
+          "id": "217",
+          "infos": [
+            "card_global_presets_slide_navigation_next"
+          ]
+        },
+        {
+          "id": "218",
+          "infos": [
+            "card_global_presets_start_presentation",
+            "card_global_presets_focus_screen",
+            "card_global_presets_slide_fast_navigation_next",
+            "card_global_presets_presenter_volume_control",
+            "card_global_presets_presenter_scroll",
+            "card_global_presets_keyboard_shortcut",
+            "card_global_presets_do_nothing"
+          ]
+        },
+        {
+          "id": "219",
+          "infos": [
+            "card_global_presets_slide_navigation_prev"
+          ]
+        },
+        {
+          "id": "220",
+          "infos": [
+            "card_global_presets_focus_screen",
+            "card_global_presets_fast_slide_navigation_prev",
+            "card_global_presets_presenter_volume_control",
+            "card_global_presets_presenter_scroll",
+            "card_global_presets_keyboard_shortcut",
+            "card_global_presets_do_nothing"
+          ]
+        },
+        {
+          "id": "425",
+          "infos": [
+            "card_global_presets_osx_cut",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "426",
+          "infos": [
+            "card_global_presets_osx_copy",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "427",
+          "infos": [
+            "card_global_presets_osx_paste",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "419",
+          "infos": [
+            "card_global_presets_calculator",
+            "card_global_presets_open_ai_overlay",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "428",
+          "infos": [
+            "card_global_presets_do_nothing",
+            "card_global_presets_volume_mute"
+          ]
+        },
+        {
+          "id": "429",
+          "infos": [
+            "card_global_presets_osx_right_opt_oob",
+            "card_global_presets_open_chatgpt",
+            "card_global_presets_open_logi_ai_portal",
+            "card_global_presets_open_ai_overlay"
+          ]
+        },
+        {
+          "id": "430",
+          "infos": [
+            "card_global_presets_modifier_right_opt",
+            "card_global_presets_open_chatgpt",
+            "card_global_presets_open_logi_ai_portal",
+            "card_global_presets_open_ai_overlay"
+          ]
+        },
+        {
+          "id": "424",
+          "infos": [
+            "card_global_presets_gesture_button_highlights"
+          ]
+        }
+      ]
+    },
+    "application_id_final_cut_pro": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_final_cut_pro_osx_pan",
+            "card_final_cut_pro_osx_deleteSelection",
+            "card_global_presets_mode_shift",
+            "card_final_cut_pro_osx_cutClip",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "card_global_presets_osx_undo",
+            "card_global_presets_osx_copy",
+            "card_final_cut_pro_osx_prevEditPoint",
+            "card_final_cut_pro_osx_bladeTool",
+            "card_final_cut_pro_osx_cutClip",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "card_global_presets_osx_redo",
+            "card_global_presets_osx_paste",
+            "card_final_cut_pro_osx_nextEditPoint",
+            "card_final_cut_pro_osx_bladeTool",
+            "card_final_cut_pro_osx_deleteSelection",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "card_final_cut_pro_osx_scrollLeft",
+            "card_final_cut_pro_osx_playHeadNavigationLeft",
+            "card_final_cut_pro_osx_zoomOut",
+            "card_final_cut_pro_osx_prevEditPoint",
+            "card_final_cut_pro_osx_goToPreviousMarker",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "card_final_cut_pro_osx_scrollRight",
+            "card_final_cut_pro_osx_playHeadNavigationRight",
+            "card_final_cut_pro_osx_zoomIn",
+            "card_final_cut_pro_osx_nextEditPoint",
+            "card_final_cut_pro_osx_goToNextMarker",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "card_global_presets_one_of_gesture_button",
+            "card_final_cut_pro_osx_startPausePlayback",
+            "card_final_cut_pro_osx_deleteSelection",
+            "card_final_cut_pro_osx_bladeTool",
+            "card_final_cut_pro_osx_cutClip",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "card_global_presets_mode_shift",
+            "card_global_presets_one_of_gesture_button",
+            "card_final_cut_pro_osx_startPausePlayback",
+            "card_final_cut_pro_osx_cutClip",
+            "card_final_cut_pro_osx_deleteSelection",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "237",
+          "infos": [
+            "card_global_presets_toggle_precision_mode",
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_osx_mission_control",
+            "card_global_presets_media_play_pause"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_one_of_gesture_button",
+            "card_final_cut_pro_osx_startPausePlayback",
+            "card_final_cut_pro_osx_cutClip",
+            "card_final_cut_pro_osx_deleteSelection",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        }
+      ]
+    },
+    "application_id_we_chat": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_wechat_osx_screen_capture",
+            "card_wechat_osx_emoji",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "card_global_presets_osx_emojis_menu",
+            "card_wechat_osx_emoji",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "260",
+          "infos": [
+            "card_wechat_osx_emoji",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "261",
+          "infos": [
+            "card_wechat_osx_emoji",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "262",
+          "infos": [
+            "card_wechat_osx_emoji",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "263",
+          "infos": [
+            "card_wechat_osx_emoji",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "110",
+          "infos": [
+            "card_global_presets_osx_hide_show_desktop",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "228",
+          "infos": [
+            "card_global_presets_media_previous_track",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "229",
+          "infos": [
+            "card_global_presets_media_play_pause",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "230",
+          "infos": [
+            "card_global_presets_media_next_track",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "231",
+          "infos": [
+            "card_global_presets_volume_mute",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "232",
+          "infos": [
+            "card_global_presets_volume_down",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "233",
+          "infos": [
+            "card_global_presets_volume_up",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "259",
+          "infos": [
+            "card_global_presets_osx_dictation",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "266",
+          "infos": [
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "284",
+          "infos": [
+            "card_global_presets_microphone_mute",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "265",
+          "infos": [
+            "card_global_presets_osx_switch_apps",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        }
+      ]
+    },
+    "application_id_tencent_meeting": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_global_presets_middle_button",
+            "card_tencent_meeting_osx_toggle_mic",
+            "card_tencent_meeting_osx_toggle_camera",
+            "card_tencent_meeting_osx_start_screen_sharing",
+            "card_tencent_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "card_tencent_meeting_osx_toggle_mic",
+            "card_tencent_meeting_osx_toggle_camera",
+            "card_tencent_meeting_osx_start_screen_sharing",
+            "card_tencent_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "card_tencent_meeting_osx_toggle_camera",
+            "card_tencent_meeting_osx_toggle_mic",
+            "card_tencent_meeting_osx_start_screen_sharing",
+            "card_tencent_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "card_tencent_meeting_osx_toggle_mic",
+            "card_tencent_meeting_osx_toggle_camera",
+            "card_tencent_meeting_osx_start_screen_sharing",
+            "card_tencent_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "card_tencent_meeting_osx_toggle_camera",
+            "card_tencent_meeting_osx_toggle_mic",
+            "card_tencent_meeting_osx_start_screen_sharing",
+            "card_tencent_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "card_global_presets_one_of_gesture_button",
+            "card_tencent_meeting_osx_toggle_mic",
+            "card_tencent_meeting_osx_toggle_camera",
+            "card_tencent_meeting_osx_start_screen_sharing",
+            "card_tencent_meeting_osx_start_cloud_recording",
+            "card_tencent_meeting_osx_start_local_recording",
+            "card_tencent_meeting_osx_activate_meeting_window",
+            "card_global_presets_osx_screen_capture"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "card_global_presets_mode_shift",
+            "card_tencent_meeting_osx_toggle_mic",
+            "card_tencent_meeting_osx_toggle_camera",
+            "card_tencent_meeting_osx_start_screen_sharing",
+            "card_tencent_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "208",
+          "infos": [
+            "card_global_presets_one_of_gesture_button",
+            "card_tencent_meeting_osx_toggle_mic",
+            "card_tencent_meeting_osx_toggle_camera",
+            "card_tencent_meeting_osx_start_screen_sharing",
+            "card_tencent_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "card_global_presets_change_pointer_speed",
+            "card_tencent_meeting_osx_toggle_mic",
+            "card_tencent_meeting_osx_toggle_camera",
+            "card_tencent_meeting_osx_start_screen_sharing",
+            "card_tencent_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "card_global_presets_osx_emojis_menu",
+            "card_global_presets_osx_emoji",
+            "card_tencent_meeting_osx_toggle_mic",
+            "card_tencent_meeting_osx_toggle_camera",
+            "card_tencent_meeting_osx_start_screen_sharing",
+            "card_tencent_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "259",
+          "infos": [
+            "card_global_presets_open_application",
+            "card_tencent_meeting_osx_toggle_mic",
+            "card_tencent_meeting_osx_toggle_camera",
+            "card_tencent_meeting_osx_start_screen_sharing",
+            "card_tencent_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "266",
+          "infos": [
+            "card_tencent_meeting_osx_toggle_camera",
+            "card_tencent_meeting_osx_toggle_mic",
+            "card_tencent_meeting_osx_start_screen_sharing",
+            "card_tencent_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "284",
+          "infos": [
+            "card_tencent_meeting_osx_toggle_mic",
+            "card_tencent_meeting_osx_toggle_camera",
+            "card_tencent_meeting_osx_start_screen_sharing",
+            "card_tencent_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        }
+      ]
+    },
+    "application_id_voov_meeting": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_global_presets_middle_button",
+            "card_voov_meeting_osx_toggle_mic",
+            "card_voov_meeting_osx_toggle_camera",
+            "card_voov_meeting_osx_start_screen_sharing",
+            "card_voov_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "card_voov_meeting_osx_toggle_mic",
+            "card_voov_meeting_osx_toggle_camera",
+            "card_voov_meeting_osx_start_screen_sharing",
+            "card_voov_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "card_voov_meeting_osx_toggle_camera",
+            "card_voov_meeting_osx_toggle_mic",
+            "card_voov_meeting_osx_start_screen_sharing",
+            "card_voov_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "91",
+          "infos": [
+            "card_voov_meeting_osx_toggle_mic",
+            "card_voov_meeting_osx_toggle_camera",
+            "card_voov_meeting_osx_start_screen_sharing",
+            "card_voov_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "93",
+          "infos": [
+            "card_voov_meeting_osx_toggle_camera",
+            "card_voov_meeting_osx_toggle_mic",
+            "card_voov_meeting_osx_start_screen_sharing",
+            "card_voov_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "195",
+          "infos": [
+            "card_global_presets_one_of_gesture_button",
+            "card_voov_meeting_osx_toggle_mic",
+            "card_voov_meeting_osx_toggle_camera",
+            "card_voov_meeting_osx_start_screen_sharing",
+            "card_voov_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture"
+          ]
+        },
+        {
+          "id": "196",
+          "infos": [
+            "card_global_presets_mode_shift",
+            "card_voov_meeting_osx_toggle_mic",
+            "card_voov_meeting_osx_toggle_camera",
+            "card_voov_meeting_osx_start_screen_sharing",
+            "card_voov_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "208",
+          "infos": [
+            "card_global_presets_one_of_gesture_button",
+            "card_voov_meeting_osx_toggle_mic",
+            "card_voov_meeting_osx_toggle_camera",
+            "card_voov_meeting_osx_start_screen_sharing",
+            "card_voov_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "card_global_presets_change_pointer_speed",
+            "card_voov_meeting_osx_toggle_mic",
+            "card_voov_meeting_osx_toggle_camera",
+            "card_voov_meeting_osx_start_screen_sharing",
+            "card_voov_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "card_global_presets_osx_emojis_menu",
+            "card_global_presets_osx_emoji",
+            "card_voov_meeting_osx_toggle_mic",
+            "card_voov_meeting_osx_toggle_camera",
+            "card_voov_meeting_osx_start_screen_sharing",
+            "card_voov_meeting_osx_start_local_recording",
+            "card_global_presets_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        }
+      ]
+    },
+    "application_id_whatsapp": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_whatsapp_osx_search",
+            "card_whatsapp_osx_mute_notif",
+            "card_whatsapp_osx_emoji",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        }
+      ]
+    },
+    "application_id_line": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_line_osx_emoji",
+            "card_global_presets_osx_copy",
+            "card_line_osx_screen_capture",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        }
+      ]
+    },
+    "application_id_kugoumusic": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_kugoumusic_osx_like",
+            "card_kugoumusic_osx_lyrics",
+            "card_kugoumusic_osx_play_pause",
+            "card_kugoumusic_osx_previous",
+            "card_kugoumusic_osx_next",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        }
+      ]
+    },
+    "application_id_spotifymusic": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_spotifymusic_osx_like",
+            "card_spotifymusic_osx_repeat",
+            "card_spotifymusic_osx_shuffle",
+            "card_spotifymusic_osx_artists",
+            "card_spotifymusic_osx_play_pause",
+            "card_spotifymusic_osx_previous",
+            "card_spotifymusic_osx_next",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        }
+      ]
+    },
+    "application_id_ding_talk": {
+      "infoList": [
+        {
+          "id": "82",
+          "infos": [
+            "card_dingtalk_osx_ai_assistant",
+            "card_global_presets_open_application",
+            "card_global_presets_osx_copy",
+            "card_global_presets_osx_paste",
+            "card_global_presets_osx_undo",
+            "card_global_presets_osx_redo",
+            "card_global_presets_middle_button",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "83",
+          "infos": [
+            "card_global_presets_osx_copy",
+            "card_dingtalk_osx_ai_assistant",
+            "card_global_presets_open_application",
+            "card_global_presets_osx_paste",
+            "card_global_presets_osx_undo",
+            "card_global_presets_osx_redo",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "86",
+          "infos": [
+            "card_global_presets_osx_paste",
+            "card_dingtalk_osx_ai_assistant",
+            "card_global_presets_open_application",
+            "card_global_presets_osx_copy",
+            "card_global_presets_osx_paste",
+            "card_global_presets_osx_undo",
+            "card_global_presets_osx_redo",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "253",
+          "infos": [
+            "card_dingtalk_osx_ai_assistant",
+            "card_global_presets_open_application",
+            "card_global_presets_osx_copy",
+            "card_global_presets_osx_paste",
+            "card_global_presets_osx_undo",
+            "card_global_presets_osx_redo",
+            "card_global_presets_change_pointer_speed",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "259",
+          "infos": [
+            "card_global_presets_open_application",
+            "card_dingtalk_osx_ai_assistant",
+            "card_global_presets_osx_copy",
+            "card_global_presets_osx_paste",
+            "card_global_presets_osx_undo",
+            "card_global_presets_osx_redo",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        },
+        {
+          "id": "264",
+          "infos": [
+            "card_dingtalk_osx_ai_assistant",
+            "card_global_presets_open_application",
+            "card_global_presets_osx_copy",
+            "card_global_presets_osx_paste",
+            "card_global_presets_osx_undo",
+            "card_global_presets_osx_redo",
+            "card_global_presets_keyboard_shortcut"
+          ]
+        }
+      ]
+    }
+  }
+}

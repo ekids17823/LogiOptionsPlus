@@ -1,0 +1,103 @@
+{
+  "cards": [
+    {
+      "id": "macro_presets_open_application_osx",
+      "name": "ASSIGNMENT_NAME_OPEN_APPLICATION",
+      "attribute": "MACRO_PLAYBACK",
+      "readOnly": true,
+      "continuous": false,
+      "macro": {
+        "type": "OPEN_FILE_FOLDER",
+        "open_file_folder": {
+          "path": "",
+          "appName": ""
+        }
+      },
+      "tags": [
+        "PRESET_TAG_KEY_OR_BUTTON"
+      ],
+      "applicationId": "",
+      "taskId": 65540
+    },
+    {
+      "id": "macro_presets_close_application_osx",
+      "name": "ASSIGNMENT_NAME_CLOSE_APPLICATION",
+      "attribute": "MACRO_PLAYBACK",
+      "readOnly": true,
+      "continuous": false,
+      "macro": {
+        "type": "APP_WINDOWS_MANAGEMENT",
+        "appWindowsManagement": {
+          "path": "",
+          "action": "CLOSE",
+          "bundleId": "",
+          "appName": ""
+        }
+      },
+      "tags": [
+        "PRESET_TAG_KEY_OR_BUTTON"
+      ],
+      "applicationId": ""
+    },
+    {
+      "id": "macro_presets_bring_to_foreground_osx",
+      "name": "ASSIGNMENT_NAME_BRING_TO_FOREGROUND",
+      "attribute": "MACRO_PLAYBACK",
+      "readOnly": true,
+      "continuous": false,
+      "macro": {
+        "type": "APP_WINDOWS_MANAGEMENT",
+        "appWindowsManagement": {
+          "path": "",
+          "action": "BRING_TO_FOREGROUND",
+          "bundleId": "",
+          "appName": ""
+        }
+      },
+      "tags": [
+        "PRESET_TAG_KEY_OR_BUTTON"
+      ],
+      "applicationId": ""
+    },
+    {
+      "id": "macro_presets_show_application_osx",
+      "name": "ASSIGNMENT_NAME_SHOW_APPLICATION",
+      "attribute": "MACRO_PLAYBACK",
+      "readOnly": true,
+      "continuous": false,
+      "macro": {
+        "type": "APP_WINDOWS_MANAGEMENT",
+        "appWindowsManagement": {
+          "path": "",
+          "action": "SHOW",
+          "bundleId": "",
+          "appName": ""
+        }
+      },
+      "tags": [
+        "PRESET_TAG_KEY_OR_BUTTON"
+      ],
+      "applicationId": ""
+    },
+    {
+      "id": "macro_presets_hide_application_osx",
+      "name": "ASSIGNMENT_NAME_HIDE_APPLICATION",
+      "attribute": "MACRO_PLAYBACK",
+      "readOnly": true,
+      "continuous": false,
+      "macro": {
+        "type": "APP_WINDOWS_MANAGEMENT",
+        "appWindowsManagement": {
+          "path": "",
+          "action": "HIDE",
+          "bundleId": "",
+          "appName": ""
+        }
+      },
+      "tags": [
+        "PRESET_TAG_KEY_OR_BUTTON"
+      ],
+      "applicationId": ""
+    }
+  ]
+}
